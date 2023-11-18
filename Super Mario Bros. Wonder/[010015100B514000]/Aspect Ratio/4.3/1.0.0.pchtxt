@@ -1,0 +1,19 @@
+@nsobid-CD6E42AEE7934F4D8393CD43893AE25EDC83D338
+
+# Super Mario Bros. Wonder [010015100B514000] v1.0.0 - 4:3 Aspect Ratio
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 4:3 Aspect Ratio
+
+@enabled
+002E9F70 0190261E
+029B5FE8 ABAAAA3F
+@stop
+
+@StevensND
+@KeatonTheBot
+
+https://linktr.ee/stevenssv2
+https://linktr.ee/keatonthebot

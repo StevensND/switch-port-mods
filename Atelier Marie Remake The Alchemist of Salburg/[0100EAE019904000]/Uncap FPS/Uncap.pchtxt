@@ -1,0 +1,15 @@
+@nsobid-2AEF2CFFB104EE7C9E212FD2F4C731E9D1E5F2C4
+
+# Atelier Marie Remake: The Alchemist of Salburg [0100EAE019904000] - Uncap FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Uncap FPS
+
+@enabled
+0017F198 08008052
+@stop
+
+@StevensND
+https://linktr.ee/stevenssv2

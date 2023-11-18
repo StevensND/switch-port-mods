@@ -1,0 +1,15 @@
+@nsobid-9765B2C86C9A70CE3025B046B9F48F2E
+
+# Mario + Rabbids Kingdom Battle [010067300059A000] v1.0.371506 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+010158A8 F5030032
+@stop
+
+@Kirby567fan
+https://gbatemp.net/threads/mario-rabbids-kingdom-battle-60-fps-mod.548057/

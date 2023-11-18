@@ -1,0 +1,15 @@
+@nsobid-2AEF2CFFB104EE7C9E212FD2F4C731E9D1E5F2C4
+
+# Detective Pikachu: Returns [010007500F27C000] - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+0017F198 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevenssv2

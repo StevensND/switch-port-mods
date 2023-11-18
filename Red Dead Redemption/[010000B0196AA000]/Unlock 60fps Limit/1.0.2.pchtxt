@@ -1,0 +1,18 @@
+@nsobid-AA3FE0762FDF80C018795F387E01DD16A730D7
+
+# Red Dead Redemption [010000B0196AA000] v1.0.2 - Unlock 60fps Limit [JPN Version]
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Unlock 60fps Limit (You need to press Control U to Unlock FPS on Yuzu or Disable Vsync)
+
+@enabled
+00038CF4 01008052
+0000C86C 007D8052
+@stop
+
+@illusion0001
+https://github.com/illusion0001
+https://illusion0001.github.io/
+https://illusion0001.com/contact/

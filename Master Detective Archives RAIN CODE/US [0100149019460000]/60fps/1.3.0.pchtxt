@@ -1,0 +1,17 @@
+@nsobid-A3F25086D203D916A694ABA685543045
+
+# Master Detective Archives: RAIN CODE [0100149019460000] v.1.3.0 - 60 FPS [US]
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60 FPS US Version 
+
+@enabled
+0370FBD0 21008052
+00B3D968 C0035FD6
+@stop
+
+@StevenssND
+https://www.reddit.com/user/StevenssND
+https://gbatemp.net/members/stevensnd.438828/

@@ -1,0 +1,15 @@
+@nsobid-357EFC198E728CB5D55265AFF304F03CFC9CC0E3
+
+# Persona 5 Royal [01005CA01580E000] - Uncap FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Uncap FPS
+
+@enabled
+00486DA0 08008052
+@stop
+
+@StevensND
+https://linktr.ee/stevenssv2

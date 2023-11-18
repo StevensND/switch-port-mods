@@ -1,0 +1,15 @@
+@nsobid-8618895246B420329B77746B960A66ABCBEDE992
+
+# Star Ocean The Second Story R [010065301A2E0000] - 60fps  
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+0017F530 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevenssv2

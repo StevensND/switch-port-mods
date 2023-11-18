@@ -1,0 +1,15 @@
+@nsobid-43211771ED39E7FCEF03D88E2709183148A9697C
+
+# Mario + Rabbids® Sparks of Hope [0100317013770000] - Uncap FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Uncap FPS
+
+@enabled
+004871B0 08008052
+@stop
+
+@StevensND
+https://linktr.ee/stevenssv2
