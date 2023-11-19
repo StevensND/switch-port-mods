@@ -1,5 +1,7 @@
 Although the TID is 010090901941E000 (US version) **these mods work for all regions and updates available** without having to make a specific mod for each region or having to update the mod. 
 
+[Alternative Gamebanana link](https://gamebanana.com/mods/479598)
+
 Instructions:
 
 1. Click on the folder of the mod that you want to use. Then click on the .pchtxt file and finally click on the arrow icon (Download Raw File) to download the mod.
