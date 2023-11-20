@@ -1,4 +1,4 @@
-Although the TID is 010090901941E000 (US version) **these mods work for all regions and updates available** without having to make a specific mod for each region or having to update the mod. 
+Although the TID is 010087701B092000 (US version) **these mods work for all regions and updates available** without having to make a specific mod for each region or having to update the mod. 
 
 [Alternative Gamebanana link](https://gamebanana.com/mods/479598)
 
