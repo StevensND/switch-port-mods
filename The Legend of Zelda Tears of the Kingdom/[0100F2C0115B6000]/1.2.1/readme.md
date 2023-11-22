@@ -24,7 +24,7 @@ My settings are based on this guide with some changes to adapt my settings to my
 
 ### Guide stars here:
 
-Let's start by downloading Yuzu and changing some settings. We will end with some optimizations info that you might need to know.
+Let's start by [downloading Yuzu](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/How%20to%20Setup%20Yuzu) and [changing some settings](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Settings%20(Only%20for%20Yuzu)). We will end with some [optimizations info](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Optimizations) that you might need to know.
 
 **I won't do a Ryujinx Guide** due to the game has always worked poorly for me using Ryujinx.
 

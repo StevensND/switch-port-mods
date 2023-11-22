@@ -42,6 +42,12 @@ Open the folder that you want to use. Ex: NEW November 2023 Update Personal Mods
 
 - **Visual Improvements**: Here I only have Remove DOF when targeting and LensFlare Removal. Personal preference. Disable it if you don't like it. The rest of Visual Improvements like LOD, FXAA etc etc are not longer needed (some of them are already included in Max's UltraCam Mod).
 
+### Testing the mods:
+
+Watch the [YouTube video](https://youtu.be/EUnyMMIWcZU?si=KuvxQvEAtwufTliW)
+
+What I like to do it's clean my shaders and built them from 0. Then I go to demands places such as Kakariko, Hatano, Fire Temple, Goron City, Depths ... Also try to find large areas where it rains and snows. In the end what we are looking for is to know our approximate FPS in these areas to know the final performance of the game.
+
 ### Optimizations:
 
-Finally we will end the guide with the optimizations that I suggest to keep in mind.
+Finally we will end the guide with the [optimizations](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Optimizations) that I suggest to keep in mind.

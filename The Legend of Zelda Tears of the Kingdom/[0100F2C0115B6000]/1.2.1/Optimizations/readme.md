@@ -48,3 +48,5 @@ Finally I did my PC optimizations using some videos from [this YouTube channel](
 That's all. I think this is all you'll need to know about setup Yuzu, settings, mods and possible optimizations.
 
 Remember that ff you want to support this work and keep a track of my mods + updates, here's my main [Github Mods Link](https://github.com/StevensND/switch-port-mods) and [my Ko-Fi](https://ko-fi.com/stevenss) as well as the rest of my [social media](https://linktr.ee/stevenssv2)
+
+I hope this guide has been useful to you and that you will support it.

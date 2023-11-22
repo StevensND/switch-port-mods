@@ -60,4 +60,4 @@ Also after doing the disable Asynchronous shader building step I would recommend
 
 ![imagen](https://i.imgur.com/dZEIrdj.png)
 
-Next we will continue with the mods I'm using.
+Next we will continue with the [mods that I'm using](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Mods).

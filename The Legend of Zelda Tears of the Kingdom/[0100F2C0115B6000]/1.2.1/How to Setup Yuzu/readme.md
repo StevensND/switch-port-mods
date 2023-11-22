@@ -50,4 +50,4 @@ If some of your games don't appear, do the following: Right click on the path yo
 
 If you want to install a DLC or any update: Go to `File -> Install Files to NAND` and select the DLC or update that you want to install.
 
-We will now continue with my personal settings.
+We will now continue with my [personal settings](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Settings%20(Only%20for%20Yuzu)).
