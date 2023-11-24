@@ -88,8 +88,8 @@ If you are not an experienced PC user, please, don't continue and if you still d
 
 Here are some videos about optimize your Nvidia/AMD Control Panel:
 
-- [Nvidia (English)](https://www.youtube.com/watch?v=uNUyF-d0oa4) | [Nvidia (Spanish)](https://www.youtube.com/watch?v=uNUyF-d0oa4)
-- [AMD (English)](https://www.youtube.com/watch?v=uNUyF-d0oa4) | [AMD (Spanish)](https://youtu.be/B_Kb-AjLu5g?si=GWi7CpVm7etACA3X)
+- [Nvidia (English)](https://www.youtube.com/watch?v=uNUyF-d0oa4) | [Nvidia (Spanish)](https://youtu.be/BNKC7U6OHfo?si=KCsVgSZ7XEMFD0vd)
+- [AMD (English)](https://youtu.be/wQE5neY1Xlc?si=kYhMrEQrnoqT9KP7) | [AMD (Spanish)](https://youtu.be/B_Kb-AjLu5g?si=GWi7CpVm7etACA3X)
 
 ### End of the guide:
 
