@@ -48,6 +48,8 @@ Watch the [YouTube video](https://youtu.be/EUnyMMIWcZU?si=KuvxQvEAtwufTliW)
 
 What I like to do it's clean my shaders and built them from 0. Then I go to demands places such as Kakariko, Hatano, Fire Temple, Goron City, Depths ... Also try to find large areas where it rains and snows. In the end what we are looking for is to know our approximate FPS in these areas to know the final performance of the game.
 
+Here's a [gameplay testing these areas](https://youtu.be/vb_yOusfZKI?si=UPBRAT6Ev73h_s8R)
+
 ### Optimizations:
 
 Finally we will end the guide with the [optimizations](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Optimizations) that I suggest to keep in mind.
