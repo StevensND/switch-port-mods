@@ -1,3 +1,19 @@
+### Instructions:
+
+1. Open the 60fps folder.
+
+2. Select the version that you are going to use (1.0.0, 1.0.1, 1.0.2 ...) and open the .pchtxt file.
+
+3. Click on the arrow icon (Download raw file) and download the file.
+
+4. Open Yuzu/Ryujinx and right click on the game, then click on Open Mod Data Location/Open Mods Directory.
+
+5. Create a new folder and name it 60fps. Open that folder and create another folder inside. Name it exefs. Finally drag/move/paste the .pchtxt that you previously downloaded in this folder.
+
+Your path should be something like: `60fps\exefs\1.0.2.pchtxt`
+
+### IMPORTANT INFO (READ IT):
+
 **TID: 01003AE01AA76000 (US Version ONLY)**. I don't plan to adapt this mod to other regions at this time.
 
 You may ask: **Why emulate this game when there is a native PC version?**: You are free to play the version that you want. My only goal with this mod was to see if I was able to adapt the mod made only for real hardware to emulation and I did it. I think it's a good progress in my learning.
