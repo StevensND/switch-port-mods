@@ -14,7 +14,13 @@ Your path should be something like: `60fps\exefs\1.0.2.pchtxt`
 
 ### IMPORTANT INFO (READ IT):
 
-**TID: 01003AE01AA76000 (US Version ONLY)**. I don't plan to adapt this mod to other regions at this time.
+This mod has only been [tested by me](https://youtu.be/UnH7R6UZx_g?si=62jvzZCAzCycb5F6) in the **US version. TID: 01003AE01AA76000**. However it seems like it's [working in other regions too](https://youtu.be/-S-CTU7OL-0?si=7b8e_ZS3Rke1oenS) due to the rest of the regions share the nsobid (BuildID) with the US Version.
+
+Check your region here:
+
+- [US](https://tinfoil.io/Title/01003AE01AA76000)
+- [Japan](https://tinfoil.io/Title/01000DA017CF0000)
+- [Asia](https://tinfoil.io/Title/0100B0701AA78000)
 
 You may ask: **Why emulate this game when there is a native PC version?**: You are free to play the version that you want. My only goal with this mod was to see if I was able to adapt the mod made only for real hardware to emulation and I did it. I think it's a good progress in my learning.
 
