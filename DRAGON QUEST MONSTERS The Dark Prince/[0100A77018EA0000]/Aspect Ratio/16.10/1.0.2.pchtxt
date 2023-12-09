@@ -1,0 +1,14 @@
+@nsobid-6B72212DABB91A6F3022582CCF8E77C5
+
+# DRAGON QUEST MONSTERS: The Dark Prince [0100A77018EA0000] v1.0.2 - 16:10 Mod 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 16:10 Mod. Use Strecth to Window option
+
+@enabled
+00E55478 01502F1E
+@stop
+
+@Fl4sh_#9174 / fl4sh_

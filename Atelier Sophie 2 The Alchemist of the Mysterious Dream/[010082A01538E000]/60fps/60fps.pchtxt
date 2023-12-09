@@ -1,0 +1,15 @@
+@nsobid-DFA12B7019FFFBE725FA4B4F1335988C79059357
+
+# Atelier Sophie 2: The Alchemist of the Mysterious Dream [010082A01538E000] - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+004499C8 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevenssv2
