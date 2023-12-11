@@ -1,10 +1,10 @@
-### DISCLAIMER. Update December 2023
+## DISCLAIMER. Update December 2023
 
 Thanks to Masagrator's help, MaxLastBreath has been able to add a Triple Buffering option to UltraCam so **the Gamebanana download is outdated**.
 
 Triple buffer is so your game won't drop immediately to 30 FPS when it drops even one frame.
 
-So ... I have added a new folder called `UltraCam TOTK Optimizer 1.5.3` where you can find a .zip file inside this folder with the new update. 
+So ... I have added a new folder called `UltraCam TOTK Optimizer 1.5.3` where you can find a [.zip file](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Mods/MaxLastBreath%20UltraCam/UltraCam%20TOTK%20Optimizer%201.5.3) inside this folder with the new update. 
 
 I have extracted the updated UltraCam mod from his [TOTK-Optimizer](https://github.com/MaxLastBreath/TOTK-mods/releases) for those of you who would like to have this mod separately.
 
@@ -20,7 +20,11 @@ Also the folders inside `RomFS` have changed and now have another name, so I hav
 
 Finally remind that despite this update, the UltraCam mod can be found in his [Gamebanana Original Post Link](https://gamebanana.com/mods/480138) as well as the TOTK-Optimizer.
 
-### MaxLastBreath README.TXT:
+## MaxLastBreath README.TXT:
+
+[Full English INI here](https://github.com/StevensND/switch-port-mods/blob/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Mods/MaxLastBreath%20UltraCam/UltraCam%20TOTK%20Optimizer%201.5.3/INI%20File%20Info/English.md)
+
+[Full Spanish INI here](https://github.com/StevensND/switch-port-mods/blob/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Mods/MaxLastBreath%20UltraCam/UltraCam%20TOTK%20Optimizer%201.5.3/INI%20File%20Info/Spanish%20(Espa%C3%B1ol).md)
 
 Please open the `RomFS` folder and then go to the `UltraCam` folder and **open the maxlastbreath.ini config file** using NotePad or [NotePad++](https://notepad-plus-plus.org/downloads/).
 
@@ -38,11 +42,11 @@ Ryujinx needs to be installed in ATMOSPHERE FOLDER or keyboard won't work.
 
 Support this mod at https://ko-fi.com/maxlastbreath
 
-### StevensND's maxlastbreath.ini Personal Settings:
+## StevensND's maxlastbreath.ini Personal Settings:
 
 ![image](https://i.imgur.com/ygZPN8S.png)
 
-### Things that you need to know to modify the .ini file:
+## Things that you need to know to modify the .ini file:
 
 `MaxFrameRate`: Here you can indicate whether you want your MaxFrameRate to be: 20, 30 or 60. If your PC is unable to exceed 30fps, leave it at 30. If you don't reach 30 stable try leaving it at 20. Set 60fps if your frames are between 35-50fps. **Keep in mind that even the most powerful CPU can't handle 60fps stable**. This is a game that requires a good high CPU (above 8 cores) for good performance.
 
