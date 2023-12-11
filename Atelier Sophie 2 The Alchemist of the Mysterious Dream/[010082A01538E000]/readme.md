@@ -1,6 +1,6 @@
 **Mod requested by Eruca** on Discord.
 
-Although the TID is 010095E018944000 (US version) **these mods work for all regions and updates available** without having to make a specific mod for each region or having to update the mod. 
+Although the TID is 010082A01538E000 (US version) **these mods work for all regions and updates available** without having to make a specific mod for each region or having to update the mod. 
 
 Instructions:
 

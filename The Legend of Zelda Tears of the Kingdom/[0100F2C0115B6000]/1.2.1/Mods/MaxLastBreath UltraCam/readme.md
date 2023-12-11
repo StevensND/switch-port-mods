@@ -1,8 +1,28 @@
-[Download this mod here](https://gamebanana.com/mods/480138)
+### DISCLAIMER. Update December 2023
+
+Thanks to Masagrator's help, MaxLastBreath has been able to add a Triple Buffering option to UltraCam so **the Gamebanana download is outdated**.
+
+Triple buffer is so your game won't drop immediately to 30 FPS when it drops even one frame.
+
+So ... I have added a new folder called `UltraCam TOTK Optimizer 1.5.3` where you can find a .zip file inside this folder with the new update. 
+
+I have extracted the updated UltraCam mod from his [TOTK-Optimizer](https://github.com/MaxLastBreath/TOTK-mods/releases) for those of you who would like to have this mod separately.
+
+Here is the changelog of this update:
+
+```
+- UltraCam now uses Triple Buffer. Should improve game stability and performance.
+- UltraCam now reads the config file more consistently.
+- UltraCam now uses proper parameters for FOV and etc. when a config file isn't present.
+- UltraCam base rotation speed has been increased.
+```
+Also the folders inside `RomFS` have changed and now have another name, so I have also updated the MaxLastBreath README.TXT section.
+
+Finally remind that despite this update, the UltraCam mod can be found in his [Gamebanana Original Post Link](https://gamebanana.com/mods/480138) as well as the TOTK-Optimizer.
 
 ### MaxLastBreath README.TXT:
 
-Please open the RomFS folder and then go to the DFPS folder and **open the maxlastbreath.ini config file** using NotePad or [NotePad++](https://notepad-plus-plus.org/downloads/).
+Please open the `RomFS` folder and then go to the `UltraCam` folder and **open the maxlastbreath.ini config file** using NotePad or [NotePad++](https://notepad-plus-plus.org/downloads/).
 
 I suggest use NotePad++. We will edit the .ini file to setup the mod based on your desired outcome.
 
@@ -20,7 +40,7 @@ Support this mod at https://ko-fi.com/maxlastbreath
 
 ### StevensND's maxlastbreath.ini Personal Settings:
 
-![image](https://i.imgur.com/zGGZNFa.png)
+![image](https://i.imgur.com/ygZPN8S.png)
 
 ### Things that you need to know to modify the .ini file:
 
@@ -34,10 +54,10 @@ Support this mod at https://ko-fi.com/maxlastbreath
 
 ![image](https://i.imgur.com/n4BlNHz.png)
 
-I'm using 2X (1440p/2160p). So that will be 1440p on Handheld mode and 2160p on Docked Mode. 
+I'm using 2X (1440p/2160p). So that will be 1440p on Handheld mode and 2160p on Docked Mode. And this will be 2 in the .ini file.
 
-To use this mod you cannot use resolutions lower than 1x. Also don't use 1.5x because it's buggy. So if you're using 1x here, set the ResolutionScale to 1.0. If you're using 2X, set 2.0, 3X set 3.0 etc etc.
+To use this mod you cannot use resolutions lower than 1x. Also don't use 1.5x because it's buggy. So if you're using 1x here, set the ResolutionScale to 1. If you're using 2X, set 2, 3X set 3 etc etc.
 
 `ShadowResolution`: I'm using 1024. You can use 512 if you're having issues. Decrease it to 206 if 512 and 1024 doesn't work properly for you although I'd use 512 or 1024. I won't go higher.
 
-`DisableFog`: This is personal preference. You like FOG?: Keep it (false). You don't like FOG: Disable it (true).
+`DisableFog`: This is personal preference. You like FOG?: Keep it (Off). You don't like FOG: Disable it (On).
