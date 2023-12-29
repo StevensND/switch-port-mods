@@ -1,0 +1,16 @@
+@nsobid-C2979457A57852161F627B71E1EEEB4D266377A5
+
+# Atelier Ryza 2: Lost Legends & the Secret Fairy [01009A9012022000] v.1.0.7 - 60 FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+00BA1B0C 21008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

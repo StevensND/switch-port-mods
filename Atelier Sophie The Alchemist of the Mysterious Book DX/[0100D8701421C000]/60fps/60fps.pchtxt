@@ -1,0 +1,16 @@
+@nsobid-BBC88B74CD99A89DDA01EE7BE469161200BCC28B
+
+# Atelier Sophie: The Alchemist of the Mysterious Book DX [0100D8701421C000] - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+00443440 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
