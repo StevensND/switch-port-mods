@@ -1,11 +1,16 @@
 ## Mods Explanation
 
 - **60FPS Cutscenes**: Makes the cutscenes runs at 60fps instead 30fps (The cutscenes runs at 30 by default).
+
+Should work on all updates without the need of updating this mod.
+
 - **120FPS**: Instead of Uncap your FPS and use RivaTurner/Nvidia/AMD Control Panel to cap your FPS at 120, this does the job for you so the game will run at 120fps without using these tools **only on gameplay**. Main screen + menus still run at 60.
 
-Special thanks to [Fl4sh_](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) for helping me make this mod.
+Special thanks to [Fl4sh_](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) for helping me make this mod. This mod will need an update when a new update is released.
 
-- **Uncap FPS**: Makes the gameplay runs at Uncap FPS (like press Control U on Yuzu/F1 on Ryujinx). **However main screen + menus still run at 60 before**
+- **Uncap FPS**: Makes the gameplay runs at Uncap FPS (like press Control U on Yuzu/F1 on Ryujinx). **However main screen + menus still run at 60**
+
+Should work on all updates without the need of updating this mod.
 
 ## 120FPS Mod Instructions
 
