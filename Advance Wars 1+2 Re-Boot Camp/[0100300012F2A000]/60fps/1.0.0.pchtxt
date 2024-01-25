@@ -1,0 +1,19 @@
+@nsobid-320A17744AEFD67FEC5738CA0C629795
+
+# Advance Wars 1+2: Re-Boot Camp [0100300012F2A000] v.1.0.0 - 60fps in Gameplay
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps in Gameplay. Thanks to Masagrator (original author) for helping me find the right offset for Switch emulators.
+
+@enabled
+01FB41A0 20008052
+@stop
+
+@masagrator
+https://github.com/masagrator
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
