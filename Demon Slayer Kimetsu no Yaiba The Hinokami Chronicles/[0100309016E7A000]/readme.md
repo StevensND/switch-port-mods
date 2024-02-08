@@ -22,7 +22,7 @@ Finally I also want to thank JAGSTAX for providing me with some files to further
 - 120fps
 - 144fps
 
-## NOTES FOR RYUJINX users**
+## NOTES FOR RYUJINX USERS
 
 **Don't use the 144fps mod. The game will slowdown.** 
 
