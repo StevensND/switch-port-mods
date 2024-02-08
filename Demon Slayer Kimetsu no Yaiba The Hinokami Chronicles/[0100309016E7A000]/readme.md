@@ -4,6 +4,8 @@
 
 **BuildID**: 14C878ECCA9D7CB5 (Game Version 1.53)
 
+[Alternative Download Link](https://gamebanana.com/mods/494571)
+
 This mod has probably been the most difficult mod I have tried to make but it has helped me to learn several things about Unreal Engine 4.
 
 The mod was almost done, I just had to fix the game speed (the game would speed up when you unlocked 60fps). Fixing the speed of the game is not a simple task and is what has taken me days and weeks to try to figure out.
@@ -19,6 +21,14 @@ Finally I also want to thank JAGSTAX for providing me with some files to further
 - 60fps
 - 120fps
 - 144fps
+
+## NOTES FOR RYUJINX users**
+
+**Don't use the 144fps mod. The game will slowdown.** 
+
+Use the 120fps mod option **(this will uncap FPS on Ryujinx)** instead and cap/limit your FPS using RivaTuner.
+
+**Don't use the 2160p Resolution Mod**. Ryujinx seems that can't handle it properly and the FPS will drop + game will slowdown.
 
 ## INSTRUCTIONS
 
