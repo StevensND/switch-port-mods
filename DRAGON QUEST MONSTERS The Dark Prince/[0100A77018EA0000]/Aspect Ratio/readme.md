@@ -1,6 +1,11 @@
 Region Supported: **US Only**
 
-How to install the mod properly:
+> [!TIP]
+If you don't find the mods updated just go to the Github of the main author, Fl4sh_
+
+You can find it [HERE](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)
+
+## How to install the mod properly
 
 1. Download the mod (Open the folder with your desire Aspect Ratio. Ex: 21:9. 
 
