@@ -1,16 +1,16 @@
 @nsobid-F91868B88F60D3D59009DB3389FDE314A6A32FCD
 
-# Super Mario Bros. Wonder [010015100B514000] v1.0.1 - 21:9 Aspect Ratio
+# Super Mario Bros. Wonder [010015100B514000] v1.0.1 - 21:9 or 43:18 Aspect Ratio
 
 @flag print_values
 @flag offset_shift 0x100
 
-// 21:9 Aspect Ratio
+// 21:9 or 43:18 Aspect Ratio optimized for 3440x1440
 // Use strecth to window option
 // Fix the Sunbaked Palace Desert stage
 
 @enabled
-029B5108 54551540
+029B5108 8EE31840
 002B9FC4 00D0251E
 002B9FDC 04B0251E
 @stop
@@ -21,4 +21,4 @@
 
 https://linktr.ee/stevensmods
 https://linktr.ee/keatonthebot
-https://github.com/Fl4sh9174/Switch-Ultrawide-Mods
+https://github.com/Fl4sh9174/Switch-Ultrawide-Mods/

@@ -1,16 +1,16 @@
 @nsobid-CD6E42AEE7934F4D8393CD43893AE25EDC83D338
 
-# Super Mario Bros. Wonder [010015100B514000] v1.0.0 - 19.5:9 Aspect Ratio
+# Super Mario Bros. Wonder [010015100B514000] v1.0.0 - 21:9 or 43:18 Aspect Ratio
 
 @flag print_values
 @flag offset_shift 0x100
 
-// 19.5:9 Aspect Ratio
+// 21:9 or 43:18 Aspect Ratio optimized for 3440x1440
 // Use strecth to window option
 // Fix the Sunbaked Palace Desert stage
 
 @enabled
-029B5FE8 ABAA0A40
+029B5FE8 8EE31840
 002E9F80 00D0251E 
 002E9F98 04B0251E
 @stop
