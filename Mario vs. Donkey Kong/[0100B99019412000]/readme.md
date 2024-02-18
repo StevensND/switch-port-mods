@@ -1,6 +1,9 @@
 **TID: 0100B99019412000**
 
-You can **find more Mario vs. Donkey Kong mods [HERE](https://gamebanana.com/mods/games/19210?)**
+You can **find more Mario vs. Donkey Kong mods [HERE](https://gamebanana.com/mods/games/19210?)** as well as:
+
+- [Fl4sh_'s Github](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)
+- [KeatonTheBot's Github](https://github.com/KeatonTheBot/switch-pchtxt-mods)
 
 ## Compatible with
 
