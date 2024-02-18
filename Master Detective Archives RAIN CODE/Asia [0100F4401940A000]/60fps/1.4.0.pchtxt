@@ -1,0 +1,18 @@
+@nsobid-86DFF996CE04CC6A8AF8A946746D5147
+
+# Master Detective Archives: RAIN CODE [0100F4401940A000] v.1.4.0 - 60 FPS [Asia]
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60 FPS Asia Version 
+
+@enabled
+03736970 21008052
+00B45860 C0035FD6
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://gamebanana.com/mods/465600
+https://github.com/StevensND/switch-port-mods
