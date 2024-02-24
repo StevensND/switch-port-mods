@@ -9,3 +9,11 @@ Other mods can be found at [my GameBanana profile](https://gamebanana.com/member
 Here's [my Social Media](https://linktr.ee/stevensmods)
 
 If you want to support me, here's my Ko-Fi: https://ko-fi.com/stevenss
+
+## Other Switch Emulator Modders that I suggest take a look
+
+- [Fl4sh's Github](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) + [Fl4sh's Gamebanana Profile](https://gamebanana.com/members/3083977)
+
+- [KeatonTheBot's Github](https://github.com/KeatonTheBot/switch-pchtxt-mods) + [KeatonTheBot's Gamebanana Profile](https://gamebanana.com/members/2739690)
+
+- [MaxLastBreath's Github](https://github.com/MaxLastBreath) + [MaxLastBreath's Gamebanana Profile](https://gamebanana.com/members/2745192)
