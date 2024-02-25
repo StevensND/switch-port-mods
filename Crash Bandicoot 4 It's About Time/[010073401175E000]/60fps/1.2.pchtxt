@@ -1,0 +1,17 @@
+@nsobid-E8DB38F170B0149D7040D492E66825B3
+
+# Crash Bandicoot 4: It's About Time [010073401175E000] v.1.2 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+05B4D53A 1F2003D5
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
