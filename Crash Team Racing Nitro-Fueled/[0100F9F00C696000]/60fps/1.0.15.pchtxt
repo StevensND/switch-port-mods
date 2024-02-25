@@ -1,0 +1,16 @@
+@nsobid-3AE34E689D7A35F13CBF42BFD672AF8B5EB64A9D
+
+# Crash™ Team Racing Nitro-Fueled [0100F9F00C696000] v.1.0.15 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+00026E90 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

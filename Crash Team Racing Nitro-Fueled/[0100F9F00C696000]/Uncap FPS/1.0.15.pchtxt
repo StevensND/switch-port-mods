@@ -1,0 +1,16 @@
+@nsobid-3AE34E689D7A35F13CBF42BFD672AF8B5EB64A9D
+
+# Crash™ Team Racing Nitro-Fueled [0100F9F00C696000] v.1.0.15 - Uncap FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Uncap FPS
+
+@enabled
+00026E90 08008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
