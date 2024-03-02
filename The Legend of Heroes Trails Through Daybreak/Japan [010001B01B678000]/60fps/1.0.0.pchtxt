@@ -1,0 +1,20 @@
+@nsobid-C19F934FA13E7503DD40CE047F305B82F3FAF9EA
+
+# 英雄伝説 黎の軌跡 for Nintendo Switch [010001B01B678000] v.1.0.0 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+00006204 81078052 
+00162C78 81078052 
+00163334 81078052 
+00219FD8 81078052 
+0021A01C 81078052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

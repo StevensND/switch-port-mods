@@ -1,0 +1,16 @@
+@nsobid-3644A6760469451CABC99F00C540ACC2A64AEE41
+
+# Shin Chan: Me and the Professor on Summer Vacation The Endless Seven-Day Journey [0100ACC0185FC000] - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+004871B0 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
