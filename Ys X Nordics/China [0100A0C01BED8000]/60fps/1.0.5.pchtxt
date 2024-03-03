@@ -1,0 +1,17 @@
+@nsobid-7E06539B5874B9C41F35DA33B8D0C9E766885B12
+
+# 伊蘇X -北境歷險- [0100A0C01BED8000] v.1.0.5 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+001CF878 81078052 // 60fps Falcom Logo // mov w1, #0x3c
+001D03B4 81078052 // 60fps Main Menu + Gameplay // mov w1, #0x3c
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

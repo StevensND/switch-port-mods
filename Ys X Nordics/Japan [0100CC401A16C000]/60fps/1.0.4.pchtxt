@@ -1,0 +1,18 @@
+@nsobid-ACF8E5931E38EAA059AC7E96097BE9912162E702
+
+# イースX -NORDICS- [0100CC401A16C000] v.1.0.4 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+0024A470 81078052 // 60fps Falcom Logo // mov w1, #0x3c
+0024B18C 81078052 // 60fps Main Menu + Gameplay // mov w1, #0x3c
+0024B188 89078052 // Speedup Fix // mov w9, #0x3c
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

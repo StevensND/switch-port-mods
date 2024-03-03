@@ -10,8 +10,8 @@ Finally, you can contact me on any of **my social media** in this [link](https:/
 
 ## TitleID's of the regions available
 
-- [China](https://tinfoil.io/Title/0100F8A01D068000)
-- [Japan](https://tinfoil.io/Title/010001B01B678000)
+- [China](https://tinfoil.io/Title/0100A0C01BED8000)
+- [Japan](https://tinfoil.io/Title/0100CC401A16C000)
 
 ## Instructions:
 
@@ -45,9 +45,3 @@ Here is a [tutorial](https://youtu.be/m-V6Rs2sm9w?si=-b10u6yv0dhih5Kk) by Grown 
 3. This is [my custom settings](https://imgur.com/a/DlEkuUE) for this game.
 
 **NOTE:** If you're having **flickering** set GPU Accuracy Level on **High** (Check this on the Adv.Graphics Tab)
-
-By the way, you can check gameplays by [NoBigDeal La](https://www.youtube.com/@nobigdealla6309) here:
-
-- [Gameplay 1](https://youtu.be/J285ZolPwFo?si=mH0ewXnEZjTSBDH9)
-
-- [Gameplay 2](https://youtu.be/vkqwZ-s5wd4?si=BBOjGel3NpsdYsAe)
