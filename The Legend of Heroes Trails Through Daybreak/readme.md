@@ -30,3 +30,19 @@ Open this folder and create another folder inside it.
 Name this new folder exefs. Finally open this last created folder and paste the corresponding .pchtxt file there.
 
 Your path should be something like this: `60fps\exefs\1.0.1.pchtxt`
+
+## Personal Yuzu Custom Settings that I've been using for my own tests
+
+1. Right click on the game.
+
+2. Click on Properties
+
+3. This is [my custom settings](https://imgur.com/a/DlEkuUE) for this game.
+
+**NOTE:** If you're having **flickering** set GPU Accuracy Level on **High** (Check this on the Adv.Graphics Tab)
+
+By the way, you can check gameplays by [NoBigDeal La](https://www.youtube.com/@nobigdealla6309) here:
+
+- [Gameplay 1](https://youtu.be/J285ZolPwFo?si=mH0ewXnEZjTSBDH9)
+
+- [Gameplay 2](https://youtu.be/vkqwZ-s5wd4?si=BBOjGel3NpsdYsAe)
