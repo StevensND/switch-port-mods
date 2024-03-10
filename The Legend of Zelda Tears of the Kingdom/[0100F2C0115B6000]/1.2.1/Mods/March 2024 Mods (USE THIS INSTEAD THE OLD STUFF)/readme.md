@@ -33,6 +33,6 @@ Triple Buffer helps with this and tries to prevent this from happening.
 
 ## Full instructions
 
-- [English](
+- [English](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Mods/March%202024%20Mods%20(USE%20THIS%20INSTEAD%20THE%20OLD%20STUFF)/UltraCam%20Settings%20-%20Full%20Detailed%20Options/English)
 
 - [Spanish](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Mods/March%202024%20Mods%20(USE%20THIS%20INSTEAD%20THE%20OLD%20STUFF)/UltraCam%20Settings%20-%20Full%20Detailed%20Options/Espa%C3%B1ol)
