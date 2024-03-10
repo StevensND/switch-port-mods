@@ -1,4 +1,4 @@
-### [Hardware Requirements](https://i.imgur.com/sqsL5CD.png)
+## [Hardware Requirements](https://i.imgur.com/sqsL5CD.png)
 
 I have decided to add the Hardware Requirements link due to this is a very important section that many people ignore, especially new users emulating games.
 
@@ -18,7 +18,7 @@ To find out if your GPU meets these requirements, visit https://opengl.gpuinfo.o
 
 Finally if we talk about RAM, IMO any RAM below 16GB is not enough (including 8GB). When you start opening Discord, Chrome/Firefox/Opera GX or any other browser you use, the emulator and some other program (Spotify, OBS ...) you will start noticing that your 8GB RAM is not enough. RIP 2GB/4GB RAM users. I would recommend 16 and if you can afford it, 32.
 
-### CEMU vs Yuzu
+## CEMU vs Yuzu
 
 Many people believe that CEMU and Yuzu are 2 equal emulators and that they have the same years of development. 
 
@@ -30,7 +30,7 @@ CEMU is more optimized than Yuzu because it has more years of development. Also 
 
 FYI: When CEMU came out, it could barely run BOTW at a stable 30fps. Vulkan wasn't even an option, you had to play in OpenGL. There were barely any mods to improve performance like there are today, you can search for [BSOD Gaming videos](https://www.youtube.com/@BSoDGaming/videos) to know more about this. So if you intend to play TOTK at 120-140fps stable ... come back to reality. Yuzu is not as optimized as CEMU and TOTK has barely been on the market for 1 year.
 
-### Shaders:
+## Shaders
 
 There are always a lot of people arguing about this topic. I sincerely recommend you to **ignore these comments and try things for yourselves**.
 
@@ -51,7 +51,7 @@ Also when you update the game and change version or when you want to move from a
 
 Finally always clean your shaders if you notice any stuttering. This might help.
 
-### Drivers:
+## Drivers
 
 A Yuzu developer discovered that the **545.84 Nvidia Drivers solves low VRAM stability** so you might want to give them a try.
 
@@ -63,7 +63,7 @@ Finally go to your Nvidia Control Panel Settings and set this (sorry for the Spa
 
 Most people have this option on: Let the app decide and IMO this is a mistake.
 
-### Integrated Graphics + Dedicated GPU
+## Integrated Graphics + Dedicated GPU
 
 Some of you may have a dedicated and an integrated graphics card. When this happens it's possible that you are not using the dedicated graphics card, but the integrated one.
 
@@ -72,7 +72,7 @@ Go to the Windows menu and type: Graphics Settings. You will see a window like t
 ![image](https://i.imgur.com/SRVvJzo.png)
 ![image](https://i.imgur.com/zAoeFcT.png)
 
-### Remove Background Tasks:
+## Remove Background Tasks
 
 **I'm not responsible for any misuse of the following recommendations**.
 
@@ -84,7 +84,7 @@ Do the same for Services and maybe Scheduled Task. Search on Google what you sho
 
 Finally I did my PC optimizations using some videos from [this YouTube channel](https://www.youtube.com/@FR33THY/videos) so maybe you want to check it out.
 
-### Nvidia/AMD Control Panel Optimization
+## Nvidia/AMD Control Panel Optimization
 
 If you are not an experienced PC user, please, don't continue and if you still decide to do it: **I'm not responsible if you make a mistake and damage your PC**, you have been previously warned.
 
@@ -93,7 +93,7 @@ Here are some videos about optimize your Nvidia/AMD Control Panel:
 - [Nvidia (English)](https://www.youtube.com/watch?v=uNUyF-d0oa4) | [Nvidia (Spanish)](https://youtu.be/BNKC7U6OHfo?si=KCsVgSZ7XEMFD0vd)
 - [AMD (English)](https://youtu.be/wQE5neY1Xlc?si=kYhMrEQrnoqT9KP7) | [AMD (Spanish)](https://youtu.be/B_Kb-AjLu5g?si=GWi7CpVm7etACA3X)
 
-### End of the guide:
+### End of the guide
 
 That's all. I think this is all you'll need to know about setup Yuzu, settings, mods and possible optimizations.
 
