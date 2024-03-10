@@ -1,6 +1,6 @@
-### [Hardware Requirements](https://yuzu-emu.org/help/quickstart/#hardware-requirements)
+### [Hardware Requirements](https://i.imgur.com/sqsL5CD.png)
 
-I have decided to add the Hardware Requirements link again due to this is a very important section that many people ignore, especially new users emulating games.
+I have decided to add the Hardware Requirements link due to this is a very important section that many people ignore, especially new users emulating games.
 
 **Nintendo Switch was released on March 3, 2017** so if there is any component of your PC prior to this date (CPU, GPU ...) you should upgrade it for better performance or **just don't emulate Nintendo Switch**
 

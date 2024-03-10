@@ -1,6 +1,20 @@
-### TOTK 1.2.1 November 2023 Update:
+### March 2024 Update:
 
-**DISCLAIMER**: If you don't understand something because you don't know English, translate the information using [Deepl](https://www.deepl.com/). It's a better translator compared to Google. Also keep in mind that I don't offer official support to solve your problems and I'm not a Yuzu developer. There are many people who think that by making a guide I must solve all your problems. This guide is totally voluntary. Remember to read [MaxLastBreath TOTK's Megathread](https://www.reddit.com/user/Maxlastbreath/comments/148o725/tears_of_the_kingdom_yuzu_setup_guide_60_fps_up/) as well as [MaxLastBreath's Bugs Megathread](https://www.reddit.com/user/Maxlastbreath/comments/148p4wh/yuzu_totk_bugmegathread/) instead.
+**DISCLAIMER**: If you don't understand something because you don't know English, translate the information using [Deepl](https://www.deepl.com/). It's a better translator compared to [Google](https://translate.google.es/?hl=es&sl=auto&tl=es&op=websites). Also keep in mind that I don't offer official support to solve your problems and I'm not a Yuzu developer. There are many people who think that by making a guide I must solve all your problems. This guide is totally voluntary. Remember to read [MaxLastBreath TOTK's Megathread](https://www.reddit.com/user/Maxlastbreath/comments/148o725/tears_of_the_kingdom_yuzu_setup_guide_60_fps_up/) as well as [MaxLastBreath's Bugs Megathread](https://www.reddit.com/user/Maxlastbreath/comments/148p4wh/yuzu_totk_bugmegathread/) instead.
+
+[MaxLastBreath](https://github.com/MaxLastBreath/TOTK-DFPS) has made a lot of progress with his UltraCam mod, so as of today (03/10/2024), the day on which I'm updating this information, **[TOTK Optimizer/UltraCam](https://github.com/MaxLastBreath/TOTK-mods/releases) is the only mod that I suggest using for Zelda TOTK.**
+
+You can read what UltraCam 2.0 includes in the [Reddit post](https://www.reddit.com/user/Maxlastbreath/comments/1baopsy/totk_optimizer_20_ultracam_beyond_new_dfps/) as well as the [Github TOTK Optimizer 2.0.0 Release Post](https://github.com/MaxLastBreath/TOTK-mods/releases/tag/manager-2.0.0)
+
+**Forget about ChucksFeedAndSeed and his DFPS 1.5.5 (and all the betas he had as well as older versions), those mods are quite outdated, laggy and give a lot of stutters compared to UltraCam 2.0** and MaxLastBreath's work is more current and better optimized.
+
+So if you're a "YouTuber" and you like clickbaits to gain views and rename your videos with (UPDATED TO 2024), stop, you're using old stuff and your viewers are not getting really up-to-date content + the best perfomance possible.
+
+**About where to get Yuzu, setup it and all the typical questions that you usually do**: I will not give that info, so **DON'T ASK ME** for that. You will have to look for all this stuff on your own after the **lawsuit against Yuzu**.
+
+Also for now, I don't suggest use Yuzu's forks/clones (Suyu, Nuzu or whatever they are called). IMO they are not developed enough to replace Yuzu/Ryujinx and they're basically the latest version of Yuzu with slight changes in the name, logo and UI ...
+
+**FINALLY**: If you  want, you can read the info below if you need more context.
 
 ### Context:
 
@@ -31,7 +45,6 @@ Let's start by [downloading Yuzu](https://github.com/StevensND/switch-port-mods/
 ### Credits:
 
 - MaxLastBreath for UltraCam Mod + DFPS support on 1.2.1 as well as TOTK Megathread + TOTK Bug Megathread.
-- ChucksFeedAndSeed for DFPS 1.5.5.
-- Remaining modders who made mods for the TOTK community.
+- Remaining modders who made mods for the TOTK community and make this possible.
 
 If you want to support this work and keep a track of my mods + updates, here's my [main Github Mods Link](https://github.com/StevensND/switch-port-mods) and my [Ko-Fi](https://ko-fi.com/stevenss) as well as the rest of my [social media](https://linktr.ee/stevenssv2)
