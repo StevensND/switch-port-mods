@@ -6,19 +6,22 @@ I have based my settings on this [TOTK-Mods-collection guide](https://github.com
 
 **My PC Specs are**: CPU: Ryzen 5600 (6 cores, 12 threads), GPU: GTX 1080 (8GB), RAM: 16GB 3600Mhz
 
-## 02/22/2024 Update:
+## 02/22/2024 Update
 
 If I remember correctly, this is the only change that is new in Yuzu's UI after I have written this guide so **keep it mind**. Below you can read the changelog about it:
 
-Mainline 1723 @Updates - PC 
+```Mainline 1723 @Updates - PC 
 
 - Added toggle to decide how much vram is allowed for games. Setting can be found in Graphic Advanced. [#13001]
 
   - **Conservative**: Allow 7 GB of vram at native resolution and allow more vram depending on the scaling value, the higher the more allowed. This will prevent Yuzu from slowing down when used with third party programs that require vram.
  
   - **Aggressive**: Allow to use 7/8 of available vram for games. It reduce stutter from cleaning vram consistently on games. Recommended when user has no other program that requires running, while using resolution mod without scaler and using very high resolution scaling of emulator.
+```
 
-### Global Settings:
+I set it on `Conservative`. I think this is the Default option.
+
+## Global Settings
 
 Go to `Emulation -> Configure` and then go to `System`. Here just select your Language, Region and Time Zone. **Leave the other options as default**.
 
@@ -34,17 +37,17 @@ Now go to `Graphics`. Here select `Vulkan`. Vulkan is preferable to `OpenGL` as 
 
 Leave the other options as default although I change the `Resolution: 2X (1440p/2160p)`, `Windows Adapting Filter: Bicubic` and `Anti-Aliasing Method: SMAA` due to my PC can handle these settings.
 
-You'll find more info about Windows Adaptating Filter [here](https://yuzu-emu.org/entry/yuzu-art/)
+You'll find more info about Windows Adaptating Filter [here](https://web.archive.org/web/20240304181558/https://yuzu-emu.org/entry/yuzu-art/)
 
 **I don't understand the resolution I am selecting, could you explain?**: The first number (1440p) will be the Resolution that you will use if you're playing on Handheld. 2160p will be the Resolution that you will use if you're playing on Docked. I'm playing on Docked.
 
 ![imagen](https://i.imgur.com/YsxQNSl.png)
 
-### Advanced Global Graphics Settings:
+## Advanced Global Graphics Settings
 
 ![imagen](https://i.imgur.com/W2Ra0OQ.png)
 
-### Custom TOTK Settings:
+## Custom TOTK Settings
 
 We setup this by Right Click on the game and then click on Properties
 
@@ -52,7 +55,7 @@ We setup this by Right Click on the game and then click on Properties
 
 ![imagen](https://i.imgur.com/A1uQXEH.png)
 
-You can leave Memory Layout on 4GB DRAM (Default) too. Just test it. I wouldn't use a higher option at 4GB or 6GB.
+You can leave Memory Layout on 4GB DRAM (Default) too. Just test it. I wouldn't use a higher option at 4GB or 6GB. For 1440p you might want to use 6GB to avoid crashes. If you go above 4K, use 8GB.
 
 ![imagen](https://i.imgur.com/ZOoJMUH.png)
 
@@ -66,7 +69,7 @@ In this section you can make some modifications and adapt them according to your
 
 `ASTC Recompression Method`: Change this if your weapons, shields etc etc menu is lagging. This mighht help that. I set it on BC3 based on my GPU VRAM (8GB). Check [this section of the TOTK-Mods-Collection guide](https://github.com/hoverbike1/TOTK-Mods-collection/blob/main/SETUP.md#recommended-yuzu-advanced-graphics-1) to know what you should use.
 
-`Use asynchronous shader building (Hack)`: Untick (Disable) this only if you're having issues with missing weapon menu image. You have [more info about this here](https://github.com/yuzu-emu/yuzu/pull/10464)
+`Use asynchronous shader building (Hack)`: Untick (Disable) this only if you're having issues with missing weapon menu image. You have [more info about this here](https://web.archive.org/web/20240227232543/https://github.com/yuzu-emu/yuzu/pull/10464)
 
 Also after doing the disable Asynchronous shader building step I would recommend clearing your shader cache and rebuilding it. We do this by Right Click on the game and following the image below:
 

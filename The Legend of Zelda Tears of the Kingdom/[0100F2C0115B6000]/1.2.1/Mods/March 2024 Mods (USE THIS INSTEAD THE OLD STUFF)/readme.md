@@ -6,6 +6,8 @@ You can check the full instructions if you scroll down.
 >[!CAUTION]
 This is my personal settings and you should not use it as is, as my PC is totally different from yours and you may have a worse performance.
 
+To Download it, click on the .zip file and then click on View Raw.
+
 For instance: I'm using a 4K resolution (3840x2160) and maybe your PC is not powerful enough to use this resolution. Sometimes I change it to 1440p (2560x1440) if I don't have a good perfomance.
 
 Same for the FPS, I'm using MaxFramerate set at 60 as well as the ShadowResolution set at 1024 so if you are having problems with this, you should change it.
