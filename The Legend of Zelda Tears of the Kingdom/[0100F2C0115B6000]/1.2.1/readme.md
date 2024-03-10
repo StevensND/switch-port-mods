@@ -1,4 +1,4 @@
-### March 2024 Update:
+## March 2024 Update:
 
 **DISCLAIMER**: If you don't understand something because you don't know English, translate the information using [Deepl](https://www.deepl.com/). It's a better translator compared to [Google](https://translate.google.es/?hl=es&sl=auto&tl=es&op=websites). Also keep in mind that I don't offer official support to solve your problems and I'm not a Yuzu developer. There are many people who think that by making a guide I must solve all your problems. This guide is totally voluntary. Remember to read [MaxLastBreath TOTK's Megathread](https://www.reddit.com/user/Maxlastbreath/comments/148o725/tears_of_the_kingdom_yuzu_setup_guide_60_fps_up/) as well as [MaxLastBreath's Bugs Megathread](https://www.reddit.com/user/Maxlastbreath/comments/148p4wh/yuzu_totk_bugmegathread/) instead.
 
@@ -16,7 +16,7 @@ Also for now, I don't suggest use Yuzu's forks/clones (Suyu, Nuzu or whatever th
 
 **FINALLY**: If you  want, you can read the info below if you need more context.
 
-### Context:
+## Context:
 
 Some people have asked me to make a video of my settings for TOTK 1.2.1. To be honest I haven't played TOTK since the 1.2.0 update and [Chuck's last DFPS update (1.5.5)](https://www.reddit.com/user/ChucksFeedAndSeed/comments/14xksce/beta1_totk_dynamicfps_v155beta1_custom_internal/) and my last contribution to TOTK was to update the mods to 1.2.1 the same day the update was released in the hope that Chuck would adapt DFPS 1.5.5 at the same time or in later days (this in the end was not the case). 
 
@@ -36,13 +36,13 @@ Eventually some modders have been disappearing and nowadays few people except Ma
 
 My settings are based on this guide with some changes to adapt my settings to my taste. 
 
-### Guide stars here:
+## Guide stars here:
 
 Let's start by [downloading Yuzu](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/How%20to%20Setup%20Yuzu) and [changing some settings](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Settings%20(Only%20for%20Yuzu)). We will end with some [optimizations info](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/%5B0100F2C0115B6000%5D/1.2.1/Optimizations) that you might need to know.
 
 **I won't do a Ryujinx Guide** due to the game has always worked poorly for me using Ryujinx.
 
-### Credits:
+## Credits:
 
 - MaxLastBreath for UltraCam Mod + DFPS support on 1.2.1 as well as TOTK Megathread + TOTK Bug Megathread.
 - Remaining modders who made mods for the TOTK community and make this possible.

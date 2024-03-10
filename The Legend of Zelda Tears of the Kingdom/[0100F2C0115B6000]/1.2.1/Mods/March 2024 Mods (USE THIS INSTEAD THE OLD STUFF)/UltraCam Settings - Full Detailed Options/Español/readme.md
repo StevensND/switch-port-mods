@@ -1,3 +1,5 @@
+Si no puedes leer las instrucciones correctamente, descarga el archivo .zip
+
 ```
 # (NEW) CameraSpeed: Velocidad de rotación de la cámara libre.
 # (NEW) Speed: Velocidad a la que se mueve la cámara libre.
