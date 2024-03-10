@@ -2,6 +2,8 @@
 
 I have decided to add the Hardware Requirements link due to this is a very important section that many people ignore, especially new users emulating games.
 
+You can check Ryujinx's Hardware Requeriments **[HERE](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide#system-requirements)**
+
 **Nintendo Switch was released on March 3, 2017** so if there is any component of your PC prior to this date (CPU, GPU ...) you should upgrade it for better performance or **just don't emulate Nintendo Switch**
 
 Don't pretend/expect that a **2nd gen Intel i3** like [this one](https://www.intel.la/content/www/xl/es/products/sku/53426/intel-core-i32120-processor-3m-cache-3-30-ghz/specifications.html) which has 2-core, 4-thread run Zelda TOTK at 30/60fps in 720p/1080p stable because that's not the case. You might not even get the game to boot or you might not get more than 5-10fps.
