@@ -1,6 +1,6 @@
-@nsobid-C577A356877B6258B548279E9E2A1A94
+@nsobid-928EFE2954F680557B8B3839481C97DB
 
-# Princess Peach: Showtime! DEMO [010024701DC2E000] v1.0.0 - 60FPS + Cutscenes Fix
+# Princess Peach: Showtime! [01007A3009184000] v1.0.0 - 60FPS + Cutscenes Fix
 
 @flag print_values
 @flag offset_shift 0x100
@@ -8,9 +8,9 @@
 // 60FPS + Cutscenes Fix. No longer 24fps limit cap.
 
 @enabled
-08969298 1F2003D5
-04A06FB0 E8008052
-04A06FB4 1F2003D5
+0895DCDE 1F2003D5
+01E556B4 E8008052
+01E556BC 084EA852
 @stop
 
 @StevensND

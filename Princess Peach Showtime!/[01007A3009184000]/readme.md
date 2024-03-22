@@ -1,15 +1,13 @@
-**TID: 010024701DC2E000**
+**TitleID: 01007A3009184000**
 
 **Version supported: 1.0.0**
 
-**BID: C577A356877B6258B548279E9E2A1A94**
-
->[!CAUTION]
-These mods **only works in the demo**.
-
-I was originally planning to release the mods with the cutscenes fix on the official release day but for the demo I'm going to bring it forward.
+**1.0.0 BuildID: 928EFE2954F68055**
 
 ## Instructions
+
+>[!TIP]
+Unlike using Control U/F1 or just disabling Vsync, these mods fix cutscenes locked at 24fps and allows you to play the game at 30/60/Uncap FPS with cutscenes fix included.
 
 >[!NOTE]
 30fps + Uncap FPS are .zip files, so **just click on the .zip file and then click on View Raw** to start the download, then unzip the files into your mods directory and that's all.
@@ -24,4 +22,11 @@ Your path should be something like this: `60fps\exefs\60fps.pchtxt`
 
 Here is a [tutorial](https://youtu.be/m-V6Rs2sm9w?si=-b10u6yv0dhih5Kk) by Grown Up Gaming on how to convert .pchtxt to .ips
 
-**Credits**: StevensND
+**Credits**: 
+
+- [StevensND](https://linktr.ee/stevensmods)
+
+- [Fl4sh_](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)
+
+>[!NOTE]
+You can find rest of Princess Peach mods at Fl4sh_'s Github
