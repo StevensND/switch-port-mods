@@ -4,7 +4,9 @@
 
 **1.0.0 BuildID: 928EFE2954F68055**
 
-## Alternative Download Link
+## Gameplay + Alternative Download Link
+
+[Video Gameplay HERE](https://youtu.be/FqgIY_TG_ro?si=OXVMEZB9an7ZPe_C)
 
 You can download these mods alternatively at Gamebanana. 
 
@@ -15,6 +17,17 @@ Here is the [alternative download link](https://gamebanana.com/mods/502311)
 You can find **rest of Princess Peach mods at [Fl4sh_ Github](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)**
 
 Also **you can download other mods** [at Gamebanana](https://gamebanana.com/mods/games/19206?)
+
+>[!CAUTION]
+**4K Mod is not working properly on Ryujinx, so it's better to use 2K Mod instead.**
+
+**This is not a problem caused by the mod**. It's a Ryujinx issue. 
+
+Ryujinx has issues with 4K Mods making the perfomance really bad (crashes, freezes, slowdowns, fps drops ...).
+
+The only fix for now it's that if you have enough knowledge to build Ryujinx, do a custom build for yourself and increase the texture cache total size limit.
+
+[Here's the PR + info](https://github.com/Ryujinx/Ryujinx/pull/6471#issue-2182256298) about the texture cache total size limit
 
 ## Instructions
 
