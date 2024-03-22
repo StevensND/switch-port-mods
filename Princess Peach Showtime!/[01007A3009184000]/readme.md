@@ -4,6 +4,18 @@
 
 **1.0.0 BuildID: 928EFE2954F68055**
 
+## Alternative Download linktr
+
+You can download these mods alternatively at Gamebanana. 
+
+Here is the [alternative download link](https://gamebanana.com/mods/502311)
+
+## More Princess Peach mods
+
+You can find **rest of Princess Peach mods at [Fl4sh_ Github](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)**
+
+Also **you can download other mods** [at Gamebanana](https://gamebanana.com/mods/games/19206?)
+
 ## Instructions
 
 >[!TIP]
@@ -27,6 +39,3 @@ Here is a [tutorial](https://youtu.be/m-V6Rs2sm9w?si=-b10u6yv0dhih5Kk) by Grown 
 - [StevensND](https://linktr.ee/stevensmods)
 
 - [Fl4sh_](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)
-
->[!NOTE]
-You can find rest of Princess Peach mods at Fl4sh_'s Github
