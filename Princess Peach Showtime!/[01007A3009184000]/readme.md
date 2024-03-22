@@ -4,7 +4,7 @@
 
 **1.0.0 BuildID: 928EFE2954F68055**
 
-## Alternative Download linktr
+## Alternative Download Link
 
 You can download these mods alternatively at Gamebanana. 
 
