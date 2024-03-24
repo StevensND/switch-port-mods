@@ -1,6 +1,6 @@
 **TitleID: 01007A3009184000**
 
-**Version supported: 1.0.0**
+**Versions supported: 1.0.0**
 
 **1.0.0 BuildID: 928EFE2954F68055**
 
@@ -11,6 +11,11 @@
 You can download these mods alternatively at Gamebanana. 
 
 Here is the [alternative download link](https://gamebanana.com/mods/502311)
+
+>[!NOTE]
+**On 03/23/2024 we found an issue regarding The Case of the Rainy-Day Plot Stage** so I have replaced the previous 60FPS + Uncap FPS mods. 
+
+If you downloaded them, please replace them. [HERE IS A VIDEO ABOUT HOW TO SOLVE THIS ISSUE](https://youtu.be/7v0XRf6j-8s?si=0Vdmla8BQeEfz0NK)
 
 ## More Princess Peach mods
 
@@ -29,19 +34,27 @@ The only fix for now it's that if you have enough knowledge to build Ryujinx, do
 
 [Here's the PR + info](https://github.com/Ryujinx/Ryujinx/pull/6471#issue-2182256298) about the texture cache total size limit
 
-## Instructions
+## Instructions on how to download the files
 
 >[!TIP]
 Unlike using Control U/F1 or just disabling Vsync, these mods fix cutscenes locked at 24fps and allows you to play the game at 30/60/Uncap FPS with cutscenes fix included.
 
->[!NOTE]
-30fps + Uncap FPS are .zip files, so **just click on the .zip file and then click on View Raw** to start the download, then unzip the files into your mods directory and that's all.
+1. Click on the folder of the mod that you want to use. Then click on the .zip file 
 
-1. Click on the folder of the mod that you want to use. Then click on the .pchtxt file and finally click on the arrow icon (Download Raw File) to download the mod.
-2. Now open your emulator (Yuzu or Ryujinx). Right click on the game and Open Mod Data Location (Yuzu)/Open Mods Directory (Ryujinx).
-3. Create a new folder in the directory you just opened and name it 60fps for instance. Open this folder and create another folder inside it. Name this new folder exefs. Finally open this last created folder and paste the corresponding .pchtxt file there.
+>[!CAUTION]
+**If you're going to use 60FPS or Uncap FPS mods, read carefully the instructions inside 60FPS/Uncap FPS folder**
 
-Your path should be something like this: `60fps\exefs\60fps.pchtxt`
+2. Now open your emulator (I suggest use Ryujinx). Right click on the game and Open Mod Data Location for Yuzu or clones/Open Mods Directory (Ryujinx).
+
+3. Paste the .zip file that you downloaded previously in this directory.
+
+4. Extract the zip file into this directory.
+
+5. Check that you have a folder named [60FPS v.1.0.0] for example and check that this folder contains more folders inside.
+
+Also, don't forget to enable the necessary options that have been indicated in the corresponding mods folders.
+
+Finally your path should be something like this: `60fps\exefs\60fps.pchtxt`
 
 **Switch users**: You can convert  the .pchtxt file to .ips using [IPSwitch](https://github.com/3096/ipswitch) or just use [FPSLocker](https://github.com/masagrator/FPSLocker)
 
