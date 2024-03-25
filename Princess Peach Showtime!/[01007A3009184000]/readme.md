@@ -13,7 +13,9 @@ You can download these mods alternatively at Gamebanana.
 Here is the [alternative download link](https://gamebanana.com/mods/502311)
 
 >[!NOTE]
-**On 03/23/2024 we found an issue regarding The Case of the Rainy-Day Plot Stage** so I have replaced the previous 60FPS + Uncap FPS mods. 
+**On 03/23/2024 we found an issue regarding The Case of the Rainy-Day Plot Stage** if you're playing above the 52fps range so I had to replaced the previous 60FPS + Uncap FPS mods. 
+
+**THAT'S WHY ONLY 60FPS + UNCAP FPS MODS HAVE A CHEAT FOLDER INCLUDED. THIS IS TO DROP THE FPS FOR A FEW SECONDS AND FIX THE ISSUE** 
 
 If you downloaded them, please replace them. [HERE IS A VIDEO ABOUT HOW TO SOLVE THIS ISSUE](https://youtu.be/7v0XRf6j-8s?si=0Vdmla8BQeEfz0NK)
 
@@ -32,7 +34,7 @@ Ryujinx has issues with 4K Mods making the perfomance really bad (crashes, freez
 
 The only fix for now it's that if you have enough knowledge to build Ryujinx, do a custom build for yourself and increase the texture cache total size limit.
 
-[Here's the PR + info](https://github.com/Ryujinx/Ryujinx/pull/6471#issue-2182256298) about the texture cache total size limit
+[Here's the PR + info](https://github.com/Ryujinx/Ryujinx/pull/6471#issue-2182256298) about the texture cache total size limit.
 
 ## Instructions on how to download the files
 
