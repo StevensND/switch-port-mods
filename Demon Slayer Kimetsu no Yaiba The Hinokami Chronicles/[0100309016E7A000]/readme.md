@@ -32,11 +32,17 @@ Use the 120fps mod option **(this will uncap FPS on Ryujinx)** instead and cap/l
 
 ## INSTRUCTIONS
 
-1. Click on the folder of the mod that you want to use. Then click on the .pchtxt file and finally click on the arrow icon (Download Raw File) to download the mod.
-2. Now open your emulator (Yuzu or Ryujinx). Right click on the game and Open Mod Data Location (Yuzu)/Open Mods Directory (Ryujinx).
-3. Create a new folder in the directory you just opened and name it 60fps for instance. Open this folder and create another folder inside it. Name this new folder exefs. Finally open this last created folder and paste the corresponding .pchtxt file there.
+1. Click on the folder of the mod that you want to use. Then click on the .zip file. Finally click on View Raw to start the download.
 
-Your path should be something like this: `60fps\exefs\1.0.0.pchtxt`
+2. Now open your emulator (Yuzu or Ryujinx). Right click on the game and Open Mod Data Location (Yuzu)/Open Mods Directory (Ryujinx).
+
+3. Paste the .zip file that you downloaded previously in this directory.
+
+4. Extract the zip file into this directory.
+
+5. Check that you have a folder named `[60 FPS v1.5.3]` for example and check that this folder contains more folders inside.
+
+Finally your path should be something like this: `60fps\exefs\1.0.0.pchtxt`
 
 **Switch users**: You can convert  the .pchtxt file to .ips using [IPSwitch](https://github.com/3096/ipswitch) or just use [FPSLocker](https://github.com/masagrator/FPSLocker)
 
