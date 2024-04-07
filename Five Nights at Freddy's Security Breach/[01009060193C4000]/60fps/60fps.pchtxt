@@ -1,0 +1,16 @@
+@nsobid-2AEF2CFFB104EE7C9E212FD2F4C731E9D1E5F2C4
+
+# Five Nights at Freddy's: Security Breach [01009060193C4000] - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+0017F198 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
