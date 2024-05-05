@@ -1,6 +1,14 @@
-**These mods should work for all updates available** without having to update the mod. 
+**TitleID: 010067B017588000**
 
-Instructions:
+**Versions compatible: 1.0.0**
+
+**BID (v1.0.0): A2FA3E8184E6D4C4 
+
+## Updates:
+
+- 05/05/2024: Fixed Speedup
+
+## Instructions:
 
 1. Click on the folder of the mod that you want to use. Then click on the .pchtxt file and finally click on the arrow icon (Download Raw File) to download the mod.
 2. Now open your emulator (Yuzu or Ryujinx). Right click on the game and Open Mod Data Location (Yuzu)/Open Mods Directory (Ryujinx).
@@ -12,4 +20,7 @@ Your path should be something like this: `60fps\exefs\60fps.pchtxt`
 
 Here is a [tutorial](https://youtu.be/m-V6Rs2sm9w?si=-b10u6yv0dhih5Kk) by Grown Up Gaming on how to convert .pchtxt to .ips
 
-**Credits**: StevensND
+**Credits**: 
+
+- [StevensND](https://linktr.ee/stevensmods)
+- [Fl4sh9174](https://github.com/Fl4sh9174)
