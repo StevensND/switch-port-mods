@@ -2,7 +2,7 @@
 
 **Versions compatible: 1.0.0**
 
-**BID (v1.0.0): A2FA3E8184E6D4C4 
+**BID (v1.0.0): A2FA3E8184E6D4C4** 
 
 ## Updates:
 
