@@ -1,0 +1,16 @@
+@nsobid-A5CB2175CAD2CA2AFDD4C13577DBD079FC193BEC
+
+# Dave The Diver [010097F018538000] - 60FPS v1.0.2.651
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS 
+
+@enabled
+00186780 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
