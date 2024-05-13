@@ -14,7 +14,7 @@ Previously this mod supported all versions and didn't need to be updated. Howeve
 The nsobid and offset/address previously used **have changed**.
 
 > [!TIP]
-So ... If you had the previous mod uploaded before 12 May 2024, please update it and use the new one, which is compatible with the new version: v1.0.1.598.
+So ... If you had the previous mod uploaded before 12 May 2024, please update it and use the new one, which is compatible with the latest version available: v1.0.2.651.
 
 ## FPS Options
 
