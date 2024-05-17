@@ -1,8 +1,10 @@
-# switch-port-mods
+## switch-port-mods
 
-Everything here is tested on emulator (Yuzu/Ryujinx). I don't know the perfomance on real hardware (Switch).
+Everything here is **tested on emulators** (Yuzu/Ryujinx) and using a PC **(I don't use Steam Deck or Android)**. I don't know the perfomance on real hardware (Switch).
 
-Other mods can be found at [my GameBanana profile](https://gamebanana.com/members/2745830)
+Other mods can be found at **[my GameBanana profile](https://gamebanana.com/members/2745830)**
+
+## Unreal Engine Mods
 
 **Unreal Engine Mods are separate** from this repository and **can be found [here](https://github.com/StevensND/ue4-emuswitch-60fps)**
 
