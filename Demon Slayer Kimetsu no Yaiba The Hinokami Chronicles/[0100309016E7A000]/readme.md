@@ -4,7 +4,7 @@
 
 **BuildID**: 14C878ECCA9D7CB5 (Game Version 1.53)
 
-[Alternative Download Link](https://gamebanana.com/mods/494571)
+[Alternative Download Link](https://gamebanana.com/mods/494571) | [Fl4sh's Updates](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)
 
 This mod has probably been the most difficult mod I have tried to make but it has helped me to learn several things about Unreal Engine 4.
 
