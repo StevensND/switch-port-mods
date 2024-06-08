@@ -4,7 +4,7 @@ These mods are for the **DEMO only**
 
 The official launch of the game is expected on 5 July.
 
-## How to download and install the mods(Emulator users)
+## How to download and install the mods (Emulator users)
 
 1. Click on the folder of the mod that you want to use. Example: Click on the `60FPS PCHTXT` folder.
 
@@ -12,13 +12,13 @@ The official launch of the game is expected on 5 July.
 
 3. Click on the arrow icon (Download Raw File) to download the mod.
 
-4. Open your emulator (Yuzu or Ryujinx). Right click on the game and Open Mod Data Location (Yuzu)/Open Mods Directory (Ryujinx).
+4. Open your emulator (Yuzu or Ryujinx). Right click on the game and then click on `Open Mod Data Location` (Yuzu)/`Open Mods Directory` (Ryujinx).
 
 5. Create a new folder in the directory you just opened and name it `60FPS` for instance. Open this folder and create another folder inside it. Name this new folder `exefs`. Finally open this last created folder and paste the corresponding .pchtxt file there.
 
 ## How to download and install the mods (Switch users)
 
-First of all, **your Switch must be modified (software or chip) and you need Atmosphere + Hetake**.
+First of all, **your Switch must be modified (software or chip) and you need Atmosphere + Hetake + The Homebrew Album App**.
 
 1. To download the mods and use them on Switch, you need to have an .ips file. Otherwise, the mods won't work on Switch.
 
@@ -37,3 +37,12 @@ atmosphere/exefs_patches/NAMEOFTHEMODDOWNLOADED
 ```
 
 Inside the `NAMEOFTHEMODDOWNLOADED` folder you will find the .ips file.
+
+In the `60FPS mod` example, the full path/directory will be:
+
+```
+atmosphere/exefs_patches/TLOHTTD 60FPS Demo
+```
+
+>[!NOTE]
+If you want to reach 60FPS on Switch, **you'll need to OC your Switch**
