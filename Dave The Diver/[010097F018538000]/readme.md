@@ -4,6 +4,7 @@
 
 **Version Supported**: 
 
+- v1.0.2.747 (June 4th, 2024. Latest update available. The mod doesn't need an update)
 - v1.0.1.598 
 - v1.0.2.651
 
