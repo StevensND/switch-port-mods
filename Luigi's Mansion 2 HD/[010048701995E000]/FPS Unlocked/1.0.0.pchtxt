@@ -1,14 +1,14 @@
 @nsobid-3BA78C255C852D696BBC18C221EB9B3144C6F972
 
-# Luigi's Mansion 2 HD [010048701995E000] v1.0.0 - 60FPS
+# Luigi's Mansion 2 HD [010048701995E000] v1.0.0 - FPS Unlocked
 
 @flag print_values
 @flag offset_shift 0x100
 
-// 60FPS
+// FPS Unlocked
 
 @enabled
-00199850 0110A0E3
+00199850 0010A0E3
 @stop
 
 @StevensND

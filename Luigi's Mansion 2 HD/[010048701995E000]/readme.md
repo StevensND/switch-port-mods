@@ -9,9 +9,18 @@ In addition if you use Yuzu and the forks, you can set the limit speed percent t
 
 The 60FPS mod I've made is intended for people who don't want or can't use these options.
 
+
 ## Versions compatible 
 
 - 1.0.0 (BuildID: A71EC0B9FF4F54CB)
+
+Although it should still work in future updates (I'm not sure. I would have to check it).
+
+## FPS Mods Available:
+
+- 60FPS (Set a limit of 60FPS).
+
+- FPS Unlocked (Allows to play above 60FPS).
 
 ## Instructions:
 
@@ -28,3 +37,5 @@ Here is a [tutorial](https://youtu.be/m-V6Rs2sm9w?si=-b10u6yv0dhih5Kk) by Grown 
 **Credits**: 
 
 - [StevensND](https://linktr.ee/stevensmods)
+
+- [Fl4sh](https://github.com/Fl4sh9174)
