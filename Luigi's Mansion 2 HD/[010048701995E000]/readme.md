@@ -15,7 +15,7 @@ The 60FPS mod I've made is intended for people who don't want or can't use these
 
 ## Instructions:
 
-1. Click on the folder of the mod that you want to use. Then click on the ``.pchtxt file and finally click on the arrow icon (Download Raw File) to download the mod.
+1. Click on the folder of the mod that you want to use. Then click on the .pchtxt file and finally click on the arrow icon (Download Raw File) to download the mod.
 2. Now open your emulator (Yuzu or Ryujinx). Right click on the game and `Open Mod Data Location` (Yuzu)/`Open Mods Directory` (Ryujinx).
 3. Create a new folder in the directory you just opened and name it `60FPS` for instance. Open this folder and create another folder inside it. Name this new folder `exefs`. Finally open this last created folder and paste the corresponding .pchtxt file there.
 
