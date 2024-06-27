@@ -2,13 +2,14 @@
 
 **TitleID: 010048701995E000**
 
+**[ALTERNATIVE DOWNLOAD LINK](https://gamebanana.com/mods/524180)**
+
 > [!NOTE]
-You can disable/turn OFF Vsync or press Control U (for Yuzu + forks) or F1 (for Ryujinx) and set a FPS limit using RivaTuner or alternative **instead**.
+You can disable/turn OFF Vsync or press Control U (for Yuzu + forks) or F1 (for Ryujinx) and set a FPS limit using RivaTuner or another alternative **instead**.
 
 In addition if you use Yuzu and the forks, you can set the limit speed percent to 200 % and get 60FPS. If you set 400 % you will get 120FPS etc etc.
 
-The 60FPS mod I've made is intended for people who don't want or can't use these options.
-
+These mods I've made are intended for people who don't want or can't use these options..
 
 ## Versions compatible 
 
@@ -16,11 +17,11 @@ The 60FPS mod I've made is intended for people who don't want or can't use these
 
 Although it should still work in future updates (I'm not sure. I would have to check it).
 
-## FPS Mods Available:
+## FPS Mods Options Available:
 
 - 60FPS (Set a limit of 60FPS).
 
-- FPS Unlocked (Allows to play above 60FPS).
+- FPS Unlocked (Allows to play above 60FPS). On my testings: If I use Yuzu the max FPS with this mod is 120. If I use Ryujinx it can be above that.
 
 ## Instructions:
 
@@ -30,11 +31,19 @@ Although it should still work in future updates (I'm not sure. I would have to c
 
 Your path should be something like this: `60FPS\exefs\1.0.0.pchtxt`
 
-**Switch users**: You can convert  the .pchtxt file to .ips using [IPSwitch](https://github.com/3096/ipswitch) or just use [FPSLocker](https://github.com/masagrator/FPSLocker)
+## Switch Users
+
+**Download the .ips file instead** and extract it into the **root of your SD card**. Keep in mind that **you might need OC**
+
+Seems [FPSLocker](https://github.com/masagrator/FPSLocker) is not working this time. 
+
+Status Monitor doesn't work either, so you cannot check the FPS and will have to rely on your own feelings.
+
+I guess there will be an update to fix this.
 
 Here is a [tutorial](https://youtu.be/m-V6Rs2sm9w?si=-b10u6yv0dhih5Kk) by Grown Up Gaming on how to convert .pchtxt to .ips
 
-**Credits**: 
+## Credits 
 
 - [StevensND](https://linktr.ee/stevensmods)
 
