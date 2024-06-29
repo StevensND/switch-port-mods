@@ -1,0 +1,16 @@
+@nsobid-3053B22935E32DDF15EF81997603E5C267534A90
+
+# Beyond Good & Evil - 20th Anniversary Edition [0100E0A01DD20000] - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+00186630 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

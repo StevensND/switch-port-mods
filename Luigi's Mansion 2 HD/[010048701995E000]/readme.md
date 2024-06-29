@@ -9,13 +9,21 @@ You can disable/turn OFF Vsync or press Control U (for Yuzu + forks) or F1 (for 
 
 In addition if you use Yuzu and the forks, you can set the limit speed percent to 200 % and get 60FPS. If you set 400 % you will get 120FPS etc etc.
 
-These mods I've made are intended for people who don't want or can't use these options..
+**These mods I've made are intended for people who don't want or can't use these options.**
+
+> [!WARNING]
+
+**If you play above ≈ 120FPS**, you will notice **issues when Luigi is going upstairs** (game speed becomes really slow), so **cap your FPS to 120 or lower.** 
+
+**Things get worse ≈ 300FPS (if you can reach that range of unlocked FPS.)**. Fl4sh and I haven't found a solution for this **yet.**
 
 ## Versions compatible 
 
 - 1.0.0 (BuildID: A71EC0B9FF4F54CB)
 
-Although it should still work in future updates (I'm not sure. I would have to check it).
+Although it should still work in future updates (I'm not sure. I would have to check it). 
+
+**The cheat file will need an update for sure.**
 
 ## FPS Mods Options Available:
 
