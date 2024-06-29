@@ -14,7 +14,7 @@ These mods I've made are intended for people who don't want or can't use these o
 > [!NOTE]
 These mods shouldn't require an update and should work for all updates available.
 
-I made this mod because several people asked me for it but **I have no interest in this game**.
+I made these mods because several people asked me for it but **I have no interest in this game**.
 
 > [!WARNING]
 Loading screens are still running at 10-15FPS, so don't panic. 
@@ -26,6 +26,8 @@ It's not something I find annoying and I'm not going to waste my time fixing it 
 - 60FPS (Set a limit of 60FPS).
 
 - Uncap FPS (Allows to play above 60FPS). 
+
+I don't know if there will be any problems with the mod above 60FPS, as I said before: I haven't played this game too much and I'm not interested in it.
 
 ## Instructions:
 
