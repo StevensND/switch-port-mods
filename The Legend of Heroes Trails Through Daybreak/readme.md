@@ -15,19 +15,19 @@ Finally, you can contact me on any of **my social media** in this [link](https:/
 
 ## Instructions:
 
-1. Click on the folder of your corresponding region. After that, click on the 60fps folder. 
+1. Click on the folder of your corresponding region. After that, click on the `60FPS` folder. 
 
 Then click on the .pchtxt file corresponding to the update that you are going to use. 
 
 Finally click on the arrow icon (Download Raw File) to download the mod.
 
-2. Now open your emulator (Yuzu or Ryujinx). Right click on the game and Open Mod Data Location (Yuzu)/Open Mods Directory (Ryujinx).
+2. Now open your emulator (Yuzu or Ryujinx). Right click on the game and `Open Mod Data Location` (Yuzu)/`Open Mods Directory` (Ryujinx).
 
-3. Create a new folder in the directory you just opened and name it 60fps for instance. 
+3. Create a new folder in the directory you just opened and name it `60FPS` for instance. 
 
 Open this folder and create another folder inside it. 
 
-Name this new folder exefs. Finally open this last created folder and paste the corresponding .pchtxt file there.
+Name this new folder `exefs`. Finally open this last created folder and paste the corresponding .pchtxt file there.
 
 Your path should be something like this: `60fps\exefs\1.0.1.pchtxt`
 
