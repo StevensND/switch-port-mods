@@ -12,6 +12,7 @@ Finally, you can contact me on any of **my social media** in this [link](https:/
 
 - [China](https://tinfoil.io/Title/0100F8A01D068000)
 - [Japan](https://tinfoil.io/Title/010001B01B678000)
+- [USA](https://tinfoil.io/Title/010040C01D248000)
 
 ## Instructions:
 

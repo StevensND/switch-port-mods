@@ -17,7 +17,7 @@ Unfortunately I haven't found a way to make the game run at higher FPS yet.
 
 ## Versions compatible:
 
-**1.0.1 | BuildID: 43D0D0D68A22E370
+**1.0.1 | BuildID: 43D0D0D68A22E370**
 
 ## Instructions:
 
