@@ -4,6 +4,8 @@
 
 **TitleID: 0100E0A01DD20000**
 
+**[ALTERNATIVE DOWNLOAD LINK](https://gamebanana.com/mods/524805)**
+
 > [!TIP]
 You can disable/turn OFF Vsync or press Control U (for Yuzu + forks) or F1 (for Ryujinx) and set a FPS limit using RivaTuner or another alternative **instead**.
 

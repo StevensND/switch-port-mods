@@ -1,0 +1,20 @@
+@nsobid-43D0D0D68A22E37074DCFC5621D1D8F8C9AFAC9C
+
+# The Legend of Heroes: Trails through Daybreak [010040C01D248000] v1.0.1 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+00006264 81078052 
+00163E98 81078052 
+00164554 81078052 
+0021B3F4 81078052 
+0021B438 81078052 
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
