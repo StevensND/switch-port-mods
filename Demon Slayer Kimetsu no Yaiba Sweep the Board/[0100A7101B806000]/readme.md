@@ -2,11 +2,15 @@
 
 **TitleID**: 0100A7101B806000
 
-**BuildID**: FFAA24E921AFE642 (Game Version 1.02)
+## Versions Compatible
+
+- 1.12
+- 1.03
+- 1.02
 
 ## FPS Options
 
-- 60fps
+- 60FPS
 - Uncap FPS
 
 ## INSTRUCTIONS
