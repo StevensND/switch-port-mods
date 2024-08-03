@@ -2,6 +2,8 @@
 
 **TitleID**: 0100A7101B806000
 
+**[ALTERNATIVE DOWNLOAD LINK](https://gamebanana.com/mods/511231)**
+
 ## Versions Compatible
 
 - 1.12
