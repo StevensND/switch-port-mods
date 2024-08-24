@@ -6,6 +6,7 @@
 
 ## Versions Compatible
 
+- 1.13
 - 1.12
 - 1.03
 - 1.02
