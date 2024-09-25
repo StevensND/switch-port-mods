@@ -18,6 +18,9 @@
 
 Rest of mods will be upload on [Fl4sh's GitHub](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) and his [GameBanana profile](https://gamebanana.com/members/3083977) as well as [GameBanana](https://gamebanana.com/games/20511)
 
+> [!NOTE]
+The 1440p mod has been removed due to Fl4sh shared me the wrong version. It will be uploaded again once he cleans the code.
+
 ## About FPS Drops
 
 The game runs natively at 60FPS on Switch. However the game is using double buffer.
