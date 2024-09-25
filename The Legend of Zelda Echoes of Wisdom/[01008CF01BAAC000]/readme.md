@@ -46,13 +46,21 @@ Thanks to this, we have been able to verify that the mods work properly on Switc
 
 ## Instructions
 
-1. **Click on the folder of the mod that you want to use**
+1. **Click on the folder of the version that you want to use**
 
-Then **Click on the .zip file**. Finally **click on View Raw** to start the download.
+Example: I would click on the 1.0.1 folder in this example.
+
+Then **Click on the folder of the mod that you want to use**. 
+
+Example: I would click on the Disable DOF-BLUR mod folder.
+
+**Now click on the .pchtxt file.**
+
+Finally move your mouse over the arrow icon and **click on it (Download Raw file)** to start the download.
 
 2. Now open your emulator (Yuzu or Ryujinx). Right click on the game and Open Mod Data Location (for Yuzu)/Open Mods Directory (for Ryujinx).
 
-3. Extract/Unzip the .zip file into this directory.
+3. Create a new folder in the directory you just opened and name it 60fps for instance. Open this folder and create another folder inside it. Name this new folder exefs. Finally open this last created folder and paste the corresponding .pchtxt file there.
 
 Your path should be similar to this: `Disable DOF\exefs\1.0.1.pchtxt`
 
