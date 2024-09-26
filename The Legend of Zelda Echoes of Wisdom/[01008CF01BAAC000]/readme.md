@@ -47,7 +47,9 @@ Some of the mods in their early versions were not working as expected/properly, 
 
 Thanks to this, we have been able to verify that the mods work properly on Switch and other emulators (Ryujinx in this case).
 
-## Instructions
+## Emulator Instructions
+
+**[VIDEO TUTORIAL HERE](https://www.youtube.com/watch?v=ij5fLfaZAWc)**
 
 1. **Click on the folder of the version that you want to use**
 
