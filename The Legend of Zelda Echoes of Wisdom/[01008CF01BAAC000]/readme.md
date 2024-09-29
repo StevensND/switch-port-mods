@@ -24,6 +24,9 @@ The 1440p mod has been removed due to Fl4sh shared me the wrong version. It will
 
 ## About FPS Drops
 
+> [!NOTE]
+CHECK THE **[FPS DROPS NOTES SECTION](https://github.com/StevensND/switch-port-mods/tree/main/The%20Legend%20of%20Zelda%20Echoes%20of%20Wisdom/%5B01008CF01BAAC000%5D/FPS%20Drops%20NOTES)** TO SEE GAMEPLAY IRL.
+
 The game runs natively at 60FPS on Switch. However the game is using double buffer.
 
 So if you're facing FPS drops and your FPS drops to 30 is due to that. 
