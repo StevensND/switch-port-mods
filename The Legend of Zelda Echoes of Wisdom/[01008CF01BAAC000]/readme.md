@@ -15,6 +15,7 @@
 - Level Of Detail 
 - Reduced Bloom
 - Remove Bloom
+- Stabilize 60FPS
 
 Rest of mods will be upload on [Fl4sh's GitHub](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) and his [GameBanana profile](https://gamebanana.com/members/3083977) as well as [GameBanana](https://gamebanana.com/games/20511)
 
