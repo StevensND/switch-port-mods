@@ -30,7 +30,7 @@ So if you're facing FPS drops and your FPS drops to 30 is due to that.
 
 If you're playing on Switch you can try to OC it and apply a good OC to stabilize the FPS.
 
-We tried to do a mod to stabilize the FPS. However there's no success yet.
+We tried to do a mod to stabilize the FPS. However I'm not satisfied with the results yet (I think a triple buffer patch it's neccesary).
 
 ## Is the engine the same as Link's Awakening?
 
