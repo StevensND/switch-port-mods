@@ -48,6 +48,14 @@ I'm not going to focus on explaining that because it's more complicated than you
 
 **However, despite this explanation there are people who still think that making a 60FPS mod that works correctly in all games is a matter of 2 minutes or less.**
 
+## Why you don't do an 120FPS/ Uncap FPS version
+
+If the game goes above 60FPS and you open the menu to see the inventory, map etc etc. **THE MENU IS SPEEDUP**
+
+If you reach 120FPS higher, **you can't leave water caves and other areas** so it's preferably keep FPS locked to 120 and lower or just 60FPS.
+
+I'm not focusing on release a 30FPS mod. **It's not my purpouse with this game.** 
+
 ## Fl4sh vs KeatonTheBot vs Stevens
 
 > [!IMPORTANT]
