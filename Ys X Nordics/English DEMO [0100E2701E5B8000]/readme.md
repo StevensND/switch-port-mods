@@ -4,13 +4,20 @@
 
 **TitleID: 0100E2701E5B8000**
 
+![imagen](https://i.imgur.com/MZ6WFs4.png)
+
 > [!NOTE]
 This is the demo, **not the full game**. Keep that in mind.
 
-> [!WARNING]
-If you're going to play on emulator **just use Sudachi**
+> [!TIP]
+Your game must have **Valid** Signature and Hash as you can see in the screenshot above.
 
-Ryujinx crash after start the game and Yuzu won't boot it.
+Otherwise, you might have issues playing the game.
+
+> [!WARNING]
+If you're going to play on emulator **use Ryujinx or Sudachi**
+
+The game won't boot if you're using Yuzu.
 
 ## Emulator Instructions
 
