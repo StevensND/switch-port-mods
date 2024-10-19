@@ -8,6 +8,11 @@ Other mods can be found at **[my GameBanana profile](https://gamebanana.com/memb
 
 **Unreal Engine Mods are separate** from this repository and **can be found [here](https://github.com/StevensND/ue4-emuswitch-60fps)**
 
+## Useful Guides
+
+- [How to download mods from GitHub (.PCHTXT FILE FORMAT)](https://youtu.be/ij5fLfaZAWc?si=Zd_mqmxEeeobu-qS)
+- [ How to verify Signature and Hash using NxFileViewer](https://youtu.be/_4rdgzYUybg?si=JVie01YswAKBBYG4) 
+
 ## How you can contact me
 
 Here's [my Social Media](https://linktr.ee/stevensmods)
