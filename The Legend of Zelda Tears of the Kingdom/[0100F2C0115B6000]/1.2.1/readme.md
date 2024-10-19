@@ -48,6 +48,20 @@ Let's start [changing some settings on Yuzu](https://github.com/StevensND/switch
 
 **I won't do a Ryujinx Guide** due to the game has always worked poorly for me using Ryujinx.
 
+## XCI or NSP
+
+![imagen](https://i.imgur.com/0kToCTv.png)
+
+You can use both formats. Just make sure that your Signature and Hash are **Valid** as I show in the screenshot above.
+
+> [!NOTE]
+Remember that **.XCI is a file dumped from the cartridge** while **.nsp is a dump from the eShop**
+
+- .XCI: Dump from the cartdrige.
+- .NSP: Dump from the eShop. The updates of the game must be in .nsp format.
+- .NSZ: Is a .NSP file compressed like a .rar or .zip file.
+- .XCZ: Is a .XCI file compressed like a .rar or .zip file.
+
 ## Credits
 
 - MaxLastBreath for UltraCam Mod + DFPS support on 1.2.1 as well as TOTK Megathread + TOTK Bug Megathread.

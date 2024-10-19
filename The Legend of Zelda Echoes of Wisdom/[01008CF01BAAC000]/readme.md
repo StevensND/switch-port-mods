@@ -51,6 +51,20 @@ Some of the mods in their early versions were not working as expected/properly, 
 
 Thanks to this, we have been able to verify that the mods work properly on Switch and other emulators (Ryujinx in this case).
 
+## XCI or NSP
+
+![imagen](https://i.imgur.com/ALZ7inS.png)
+
+You can use both formats. Just make sure that your Signature and Hash are **Valid** as I show in the screenshot above.
+
+> [!NOTE]
+Remember that **.XCI is a file dumped from the cartridge** while **.nsp is a dump from the eShop**
+
+- .XCI: Dump from the cartdrige.
+- .NSP: Dump from the eShop. The updates of the game must be in .nsp format.
+- .NSZ: Is a .NSP file compressed like a .rar or .zip file.
+- .XCZ: Is a .XCI file compressed like a .rar or .zip file.
+
 ## Emulator Instructions
 
 **[VIDEO TUTORIAL HERE](https://www.youtube.com/watch?v=ij5fLfaZAWc)**
