@@ -1,0 +1,20 @@
+@nsobid-D1ED438C8BDAF4368B30DAEC53ED8E9BACD31A34
+
+# The Legend of Zelda Echoes of Wisdom [01008CF01BAAC000] v1.0.2 - Reduced Bloom
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Reduced Bloom
+
+@enabled
+032F81BC 00000000
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
