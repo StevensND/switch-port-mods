@@ -7,10 +7,11 @@
 ## The mods are compatible with the following versions
 
 - 1.0.1. **BuildID: 09A15C8259828A41** 
+- 1.0.2. **BuildID: D1ED438C8BDAF436**
 
 ## Mods Available
 
-- Resolution (1080p, 1440p)
+- Resolution (1080p)
 - Disable DOF/BLUR [Gameplay Test. Switch Footage](https://youtu.be/fXLotPbtePg?si=im5eI9HbZ4ovSQdS)
 - Level Of Detail 
 - Reduced Bloom
@@ -19,8 +20,11 @@
 
 Rest of mods will be upload on [Fl4sh's GitHub](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) and his [GameBanana profile](https://gamebanana.com/members/3083977) as well as [GameBanana](https://gamebanana.com/games/20511)
 
-> [!NOTE]
-The 1440p mod has been removed due to Fl4sh shared me the wrong version. It will be uploaded again once he cleans the code.
+You can also take a look at:
+
+- [KeatonTheBot's GitHub](https://github.com/KeatonTheBot/switch-pchtxt-mods/tree/main/Legend%20of%20Zelda%2C%20The%20-%20Echoes%20of%20Wisdom/01008CF01BAAC000) and his [GameBanana Profile](https://gamebanana.com/members/2739690)
+
+- [MaxLastBreath EOW Mods](https://ko-fi.com/maxlastbreath) and his [GitHub Profile](https://github.com/MaxLastBreath)
 
 ## About FPS Drops
 
