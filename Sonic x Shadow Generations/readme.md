@@ -7,8 +7,13 @@
 > [!NOTE]
 This game has **two TitleIDs** for Shadow and Sonic, so careful with that. 
 
-- **01005EA01C0FC000** (for Shadow)
-- **01005EA01C0FC001** (for Sonic)
+- **01005EA01C0FC000** (Shadow)
+- **01005EA01C0FC001** (Sonic)
+
+**Engine**:
+
+- Sonic Generations:  Hedgehog Engine 1
+- Shadow: Hedgehog Engine 2	
 
 ## The mods are compatible with the following versions
 
@@ -19,7 +24,7 @@ This game has **two TitleIDs** for Shadow and Sonic, so careful with that.
 
 - 60FPS
 
-Rest of mods will be upload on [Fl4sh's GitHub](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) and his [GameBanana profile](https://gamebanana.com/members/3083977) as well as [GameBanana](https://gamebanana.com/games/20511)
+Rest of mods will be upload on [Fl4sh's GitHub](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) and his [GameBanana profile](https://gamebanana.com/members/3083977)
 
 ## Emulator Instructions
 
@@ -49,8 +54,9 @@ You can convert  the .pchtxt files to .ips using [IPSwitch](https://github.com/3
 
 Here is a [tutorial](https://youtu.be/m-V6Rs2sm9w?si=-b10u6yv0dhih5Kk) by Grown Up Gaming on how to convert .pchtxt to .ips
 
-Anyway I'm sharing the .IPS files that I created if you want them too.
+Anyway I'm sharing the .IPS files that I created using IPSwitch if you need them.
 
+> [!TIP]
 Keep in mind that for a more stable FPS experience you'd need to OC (overclock) your Switch.
 
 [Here's a guide about OC](https://rentry.co/howtoget60fps)
