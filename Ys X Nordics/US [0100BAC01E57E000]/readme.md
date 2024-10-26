@@ -2,17 +2,7 @@
 
 **Game Title**: Ys X: Nordics
 
-**TitleID: 0100E2701E5B8000**
-
-![imagen](https://i.imgur.com/MZ6WFs4.png)
-
-> [!NOTE]
-This is the demo, **not the full game**. Keep that in mind.
-
-> [!TIP]
-Your game must have **Valid** Signature and Hash as you can see in the screenshot above.
-
-Otherwise, you might have issues playing the game.
+**TitleID: 0100BAC01E57E000**
 
 > [!WARNING]
 If you're going to play on emulator **use Ryujinx or Sudachi**
