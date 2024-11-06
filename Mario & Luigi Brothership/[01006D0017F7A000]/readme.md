@@ -6,35 +6,29 @@
 
 **Engine: Unreal Engine 4**
 
+**[Gameplay (Played on Switch with OC), not emulated](https://youtu.be/r2uZrkJb74c?si=dSs0Vmc5ndYlSYw3)**
+
 > [!WARNING]
-Tested on Yuzu and Sudachi. **RYUJINX HAS ISSUES AND THE GAME CRASH AFTER 3-5 MINUTES**.
+Tested on Yuzu and Sudachi. **RYUJINX HAS ISSUES AND THE GAME CRASH AFTER 3-5 MINUTES EVEN WITHOUT MODS**.
+
+> [!TIP]
+There's a "fix" for Ryujinx but that will drop your FPS so it's up to you use it or NOT
+
+Go to `Options` and then click on `Settings`. Then click on `CPU`. Finally change the `Memory Manager Mode` to `Software`
 
 ## Mods Available
 
-- **60FPS**
-- **Uncap FPS**
+- **FPS**: 60FPS + Uncap FPS
 
-> [!NOTE]
-Fl4sh and I won't release resolutions mods **YET**
+- **Level Of Detail**
 
-Thanks to NineKain we noticed that ExeFS resolutions mods doesn't give the same quality as RomFS resolution mods.
+- **Resolution**: 1080p, 1440p (2K), 2160p (4K)
 
-We're working on fixing that. However, maybe I'd consider releasing RomFS option later.
-
-> [!NOTE]
-INFO IS NOT COMPLET YET. I'll write more info after work.
+- **Speed Hack**: If you want to advance text faster or move faster, just use it.
 
 ## Versions supported
 
 - **1.0.0 | BuildID: 59874C9B530095AC**
-
-## About the mods leaked
-
-I know the FPS mods were leaked on 4chan but meh. Fuck 4chan and their users.
-
-Find things on that site is really a mess.
-
-If you didn't find the FPS mods here there are.
 
 ## How to install the mods (for Emulators)
 
@@ -60,6 +54,21 @@ You can convert  the .pchtxt file to .ips using [IPSwitch](https://github.com/30
 Here is a [tutorial](https://youtu.be/m-V6Rs2sm9w?si=-b10u6yv0dhih5Kk) by Grown Up Gaming on how to convert .pchtxt to .ips
 
 Here is a [video guide](https://youtu.be/0X5g6HF7LB4?si=n-UtFAEAj2VtjEQQ) + [written guide](https://rentry.co/NSwitch60FPSLockerGuide) about FPSLocker
+
+Here is a [written guide](https://rentry.co/howtoget60fps) about how to get 60FPS on Switch.
+
+I uploaded some mods on IPS format too.
+
+## OLED Switch (Mariko) FPS Test**
+
+> [!NOTE]
+My OC settings are on the gameplay video. However I higly suggest don't do copy & paste.
+
+- 60FPS Only with Default Resolution (1600x900) = 45-50FPS in game. Reaching 60FPS on battles.
+
+- 60FPS + 1080p Mod without OC =  32-35FPS. Reaching 45-60 on battle.
+
+- 60FPS + 1080p Mod + LOD Mod with OC = Watch the gameplay video
 
 ## Credits 
 
