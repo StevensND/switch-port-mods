@@ -16,6 +16,8 @@ There's a "fix" for Ryujinx but that will drop your FPS so it's up to you use it
 
 Go to `Options` and then click on `Settings`. Then click on `CPU`. Finally change the `Memory Manager Mode` to `Software`
 
+![image](https://i.gyazo.com/4a85f5cd3c4931cf5b56c7ab102f19d1.png)
+
 ## Mods Available
 
 - **FPS**: 60FPS + Uncap FPS
@@ -57,9 +59,9 @@ Here is a [video guide](https://youtu.be/0X5g6HF7LB4?si=n-UtFAEAj2VtjEQQ) + [wri
 
 Here is a [written guide](https://rentry.co/howtoget60fps) about how to get 60FPS on Switch.
 
-I uploaded some mods on IPS format too.
+I uploaded some mods on IPS format too so you don't have to convert them.
 
-## OLED Switch (Mariko) FPS Test**
+## OLED Switch (Mariko) FPS Test
 
 > [!NOTE]
 My OC settings are on the gameplay video. However I higly suggest don't do copy & paste.
