@@ -1,4 +1,4 @@
-> [!NOTE]
+>[!NOTE]
 
 The proper way to use these mods on emulator is to **Set the Resolution Scale to 1x (Native 720p/1080p)**.
 
