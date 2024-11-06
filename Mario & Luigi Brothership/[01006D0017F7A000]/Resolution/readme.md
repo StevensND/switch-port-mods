@@ -1,5 +1,4 @@
 >[!NOTE]
-
 The proper way to use these mods on emulator is to **Set the Resolution Scale to 1x (Native 720p/1080p)**.
 
 This will make these mods native. Otherwise, if you set 2x, 3x etc etc, you will increase the resolution and FPS drops/bad perfomance might happen.
