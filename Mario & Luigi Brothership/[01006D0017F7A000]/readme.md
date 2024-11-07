@@ -6,7 +6,7 @@
 
 **Engine: Unreal Engine 4**
 
-**[Gameplay (Played on Switch with OC), not emulated](https://youtu.be/r2uZrkJb74c?si=dSs0Vmc5ndYlSYw3)**
+**[Gameplay (Played on Switch with OC), not emulated](https://youtu.be/Zv86U-uWU2w?si=RIgaQfdcs2PbSx_k)**
 
 > [!WARNING]
 Tested on Yuzu and Sudachi. **RYUJINX HAS ISSUES AND THE GAME CRASH AFTER 3-5 MINUTES EVEN WITHOUT MODS**.
@@ -25,6 +25,13 @@ Go to `Options` and then click on `Settings`. Then click on `CPU`. Finally chang
 - **Level Of Detail**
 
 - **Resolution**: 1080p, 1440p (2K), 2160p (4K)
+
+> [!NOTE]
+You've to use Docked Mode for now
+
+If you use Handheld mode, you'll see that the HUD overlay doesn't scale properly and it's not full screen
+
+You can fix it by switch to Docked and then switching to Handheld again. **However the resolution will be the same**. This shouldn't happen. Wait for a fix.
 
 - **Speed Hack**: If you want to advance text faster or move faster, just use it.
 

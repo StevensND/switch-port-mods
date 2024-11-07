@@ -7,6 +7,13 @@ This will make these mods native. Otherwise, if you set 2x, 3x etc etc, you will
 
 ![image](https://i.gyazo.com/068939ee1b1b4e6cbafae8205a962539.png)
 
+> [!NOTE]
+You've to use Docked Mode for now
+
+If you use Handheld mode, you'll see that the HUD overlay doesn't scale properly and it's not full screen
+
+You can fix it by switch to Docked and then switching to Handheld again. **However the resolution will be the same**. This shouldn't happen. Wait for a fix.
+
 ## Notes if you're going to use 3840x2160 (4K) Mod
 
 3840x2160 requires Extended memory layout for any emulator.
