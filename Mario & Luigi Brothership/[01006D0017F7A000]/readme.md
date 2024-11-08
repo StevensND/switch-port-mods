@@ -8,6 +8,8 @@
 
 **[Gameplay (Played on Switch with OC), not emulated](https://youtu.be/Zv86U-uWU2w?si=RIgaQfdcs2PbSx_k)**
 
+**[ALTERNATIVE DOWNLOAD LINK (GAMEBANANA)](https://gamebanana.com/mods/games/20508)**
+
 > [!WARNING]
 Tested on Yuzu and Sudachi. **RYUJINX HAS ISSUES AND THE GAME CRASH AFTER 3-5 MINUTES EVEN WITHOUT MODS**.
 
@@ -17,6 +19,12 @@ There's a "fix" for Ryujinx but that will drop your FPS so it's up to you use it
 Go to `Options` and then click on `Settings`. Then click on `CPU`. Finally change the `Memory Manager Mode` to `Software`
 
 ![image](https://i.gyazo.com/4a85f5cd3c4931cf5b56c7ab102f19d1.png)
+
+Another option could be the following (IMO this option works better and doesn't tank too much FPS):
+
+Go to `Options` and then click on `Graphics`. Then click on `Graphics Backend Multithreading` and select `OFF`
+
+![image](https://i.gyazo.com/5fc2670488005e9fcbae8fb4f743093b.png)
 
 ## Mods Available
 
