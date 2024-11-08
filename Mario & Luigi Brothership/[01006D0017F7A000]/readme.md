@@ -35,7 +35,7 @@ Go to `Options` and then click on `Graphics`. Then click on `Graphics Backend Mu
 - **Resolution**: 1080p, 1440p (2K), 2160p (4K)
 
 > [!NOTE]
-You've to use Docked Mode for now
+You've to use Docked Mode for now **if you're going to use these resolution mods**
 
 If you use Handheld mode, you'll see that the HUD overlay doesn't scale properly and it's not full screen
 
