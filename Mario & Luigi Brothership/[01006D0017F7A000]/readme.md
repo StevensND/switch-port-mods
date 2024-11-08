@@ -6,7 +6,7 @@
 
 **Engine: Unreal Engine 4**
 
-**[Gameplay (Played on Switch with OC), not emulated](https://youtu.be/Zv86U-uWU2w?si=RIgaQfdcs2PbSx_k)**
+**[Gameplay (Played on Switch with OC), not emulated](https://www.dailymotion.com/video/x98uilo)**
 
 **[ALTERNATIVE DOWNLOAD LINK (GAMEBANANA)](https://gamebanana.com/mods/games/20508)**
 
