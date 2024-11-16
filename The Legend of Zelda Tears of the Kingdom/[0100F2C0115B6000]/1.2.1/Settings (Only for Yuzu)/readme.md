@@ -10,7 +10,7 @@ I have based my settings on this [TOTK-Mods-collection guide](https://github.com
 
 If I remember correctly, this is the only change that is new in Yuzu's UI after I have written this guide so **keep it mind**. Below you can read the changelog about it:
 
-**Mainline 1723 @Updates - PC** 
+<ins>**Mainline 1723 @Updates - PC**</ins>
 
 - Added toggle to decide how much vram is allowed for games. Setting can be found in Graphic Advanced. [#13001]
 
