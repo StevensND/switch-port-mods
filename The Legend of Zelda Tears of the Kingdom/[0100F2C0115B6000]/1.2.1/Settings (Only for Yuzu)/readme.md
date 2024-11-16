@@ -14,9 +14,9 @@ If I remember correctly, this is the only change that is new in Yuzu's UI after 
 
 - Added toggle to decide how much vram is allowed for games. Setting can be found in Graphic Advanced. [#13001]
 
-  - **Conservative**: Allow 7 GB of vram at native resolution and allow more vram depending on the scaling value, the higher the more allowed. This will prevent Yuzu from slowing down when used with third party programs that require vram.
+  - <ins>**Conservative**</ins>: Allow 7 GB of vram at native resolution and allow more vram depending on the scaling value, the higher the more allowed. This will prevent Yuzu from slowing down when used with third party programs that require vram.
  
-  - **Aggressive**: Allow to use 7/8 of available vram for games. It reduce stutter from cleaning vram consistently on games. Recommended when user has no other program that requires running, while using resolution mod without scaler and using very high resolution scaling of emulator.
+  - <ins>**Aggressive**</ins>: Allow to use 7/8 of available vram for games. It reduce stutter from cleaning vram consistently on games. Recommended when user has no other program that requires running, while using resolution mod without scaler and using very high resolution scaling of emulator.
 
 I set it on `Conservative`. I think this is the Default option.
 
