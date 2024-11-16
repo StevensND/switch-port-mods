@@ -4,7 +4,7 @@
 
 I did this video showing my settings in real time if you want to see it too.
 
-### DISCLAIMER:
+## DISCLAIMER
 
 If you don't understand something because you don't know English, translate the information using [Deepl](https://www.deepl.com/). It's a better translator compared to Google. Also keep in mind that I don't offer official support to solve your problems and I'm not a Yuzu developer. There are many people who think that by making a guide I must solve all your problems. This guide is totally voluntary. Remember to read [MaxLastBreath TOTK's Megathread](https://www.reddit.com/user/Maxlastbreath/comments/148o725/tears_of_the_kingdom_yuzu_setup_guide_60_fps_up/) as well as [MaxLastBreath's Bugs Megathread](https://www.reddit.com/user/Maxlastbreath/comments/148p4wh/yuzu_totk_bugmegathread/) instead.
 
