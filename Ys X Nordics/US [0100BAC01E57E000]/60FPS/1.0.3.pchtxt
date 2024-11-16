@@ -1,0 +1,18 @@
+@nsobid-C55F6B8AEFA54324C8E3DEBE0912C57C8E2C338E
+
+# Ys X: Nordics [0100BAC01E57E000] v.1.0.3 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+0022A88C 81078052 // 60FPS Falcom Logo // mov w1, #0x3c
+0022B6AC 81078052 // 60FPS Main Menu + Gameplay // mov w1, #0x3c
+0022B6A8 89078052 // Speedup Fix // mov w9, #0x3c
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
