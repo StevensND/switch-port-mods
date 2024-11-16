@@ -1,4 +1,8 @@
+## VIDEO GUIDE
+
 [VIDEO SHOWING THE SETTINGS HERE](https://youtu.be/EUnyMMIWcZU?si=DLYLdqJFP5TeAxdd)
+
+I did this video showing my settings in real time if you want to see it too.
 
 ### DISCLAIMER:
 
