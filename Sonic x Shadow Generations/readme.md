@@ -19,6 +19,7 @@ This game has **two TitleIDs** for Shadow and Sonic, so careful with that.
 
 - 1.0.0
 - 1.0.1
+- 1.10 (Sonic 3 Movie DLC). [Alternative Download Link](https://gamebanana.com/threads/226238)
 
 ## Mods Available
 
