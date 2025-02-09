@@ -1,0 +1,22 @@
+@nsobid-6C46135714ABB8706EEE10F330F12B97F706C5A1
+
+# Fate/Samurai Remnant [01003AE01AA76000] v.1.3.2 - 60 FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60 FPS
+
+@enabled
+005DB12C 79008052
+03412388 01000000
+@stop
+
+// Original mod by masagrator
+https://github.com/masagrator
+https://github.com/masagrator/FPSLocker
+https://github.com/masagrator/FPSLocker-Warehouse
+https://gbatemp.net/members/masagrator.467296/
+
+// Ported for use in Switch emulators by StevensND
+https://linktr.ee/stevensmods
