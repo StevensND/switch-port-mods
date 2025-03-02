@@ -6,9 +6,16 @@
 
 **Engine: Unity**
 
+**[ALTERNATIVE DOWNLOAD LINK (GAMEBANANA)](https://gamebanana.com/mods/578816)**
+
 ## Mods Available
 
 - **FPS**: 60FPS + Uncap FPS
+
+> [!NOTE]
+You can also unlock FPS using Control U (Yuzu, Sudachi, Citron) or F1 (Ryujinx) or by setting a limit speed percent to 200 % (Yuzu, Sudachi, Citron)
+
+If you want, you can add a FPS limiter using MSI Afterburner + RivaTurner and cap your FPS to your desire. Ex: 60FPS.
 
 ## Versions supported
 
