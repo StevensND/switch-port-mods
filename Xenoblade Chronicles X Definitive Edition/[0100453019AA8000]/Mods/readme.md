@@ -1,3 +1,11 @@
+## Tracking the mods development
+
+Just check these forums:
+
+- [GitHub](https://github.com/StevensND/switch-port-mods/discussions/40)
+- [GBATemp](https://gbatemp.net/threads/xenoblade-chronicles-x-definitive-edition-emulator-mods-cheats-discussion.668674/)
+- [Reddit](https://www.reddit.com/r/yuzu/comments/1jh1fvy/xenoblade_chronicles_x_definitive_edition/)
+
 ## How to download and install the mods (for Emulators)
 
 > [!NOTE]
