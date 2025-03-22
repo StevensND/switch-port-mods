@@ -6,7 +6,7 @@ I won't do a Discord server for this. Just check these forums:
 - [GBATemp](https://gbatemp.net/threads/xenoblade-chronicles-x-definitive-edition-emulator-mods-cheats-discussion.668674/)
 - [Reddit](https://www.reddit.com/r/yuzu/comments/1jh1fvy/xenoblade_chronicles_x_definitive_edition/)
 
-~~Fuck you 4chan and your users asking weird stuff~~
+~~Fuck you 4chan and your users asking for weird stuff~~
 
 ## How to download and install the mods (for Emulators)
 
