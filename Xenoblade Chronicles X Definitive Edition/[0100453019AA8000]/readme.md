@@ -72,7 +72,7 @@ Fov mod can cause a few visual glitches, but you can press ZL+dpad up anytime to
 
 - **Camera Speed Fix**: ONLY WORKING ON CITRON FOR NOW.
 
-## How to install the mods (for Emulators)
+## How to download and install the mods (for Emulators)
 
 > [!NOTE]
 Check this [VIDEO GUIDE](https://youtu.be/O1Rt55ExqXo?si=sbBNZbe-WJXLGEBc)

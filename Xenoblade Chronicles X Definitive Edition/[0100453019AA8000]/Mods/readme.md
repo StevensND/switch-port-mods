@@ -1,4 +1,4 @@
-## How to install the mods (for Emulators)
+## How to download and install the mods (for Emulators)
 
 > [!NOTE]
 Check this [VIDEO GUIDE](https://youtu.be/O1Rt55ExqXo?si=sbBNZbe-WJXLGEBc)
