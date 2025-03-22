@@ -10,8 +10,9 @@
 
 ## Gameplay
 
-[STEVENS GAMEPLAY](https://youtu.be/xioQS1tgebM?si=4LmtsgqmDiNc5T6e)
-[NoBigDeal LA GAMEPLAY](https://youtu.be/LjMDakHPytg?si=dOei3JFTHxoNFZyI)
+- [STEVENS GAMEPLAY](https://youtu.be/xioQS1tgebM?si=4LmtsgqmDiNc5T6e)
+
+- [NoBigDeal LA GAMEPLAY](https://youtu.be/LjMDakHPytg?si=dOei3JFTHxoNFZyI)
 
 ## Mods Available
 
@@ -43,7 +44,7 @@ Also: You might need to increase the DRAM on the emulator settings to 6GB, 8GB e
 
 **This should be done only if you're having issues with the resolution mods**. However IMO and on my testings, for 1440p it's not neccesary.
 
-> [TIP]
+> [!TIP]
 Native resolution mods are generally more accurate than emulator scaling.
 
 They use the game's native code to render a resolution rather than an emulator's subjective scaling. 
