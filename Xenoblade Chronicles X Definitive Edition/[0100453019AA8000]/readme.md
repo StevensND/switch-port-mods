@@ -24,7 +24,7 @@ Remember to read the `README.txt` file inside the downloaded .zip file. This wil
 > [!WARNING]
 To use this mod properly, you must use the cheat inside the `cheats` folder and the .pchtxt file inside `exefs` folder together.
 
-Otherwise, the mod won't work properly.
+Otherwise, the mod won't work properly. **KEEP IN MIND THAT THE FPS ARE NOT DYNAMIC** So if the FPS are not stable and goes below 60FPS, you'll notice slowdowns.
 
 **Issues reported without the cheat enabled will be automatically ignored.**
 
@@ -75,7 +75,7 @@ Fov mod can cause a few visual glitches, but you can press ZL+dpad up anytime to
 ## How to install the mods (for Emulators)
 
 > [!NOTE]
-Check this [VIDEO GUIDE](https://youtu.be/ij5fLfaZAWc?si=kBf1FVzheZY5SMgz) to know how to download my mods **if the format is only .pchtxt**
+Check this [VIDEO GUIDE](https://youtu.be/O1Rt55ExqXo?si=sbBNZbe-WJXLGEBc)
 
 ## Switch users
 
@@ -91,6 +91,12 @@ Here is a [written guide](https://rentry.co/howtoget60fps) about how to get 60FP
 
 - StevensND
 - [Fl4sh](https://github.com/Fl4sh9174)
+
+You can donate and support both of us if you want (this is always up to you, our mods are not under a paywall) on our Ko-fi links:
+
+https://ko-fi.com/stevenss
+
+https://Ko-fi.com/Fl4sh9174 
 
 ## Thanks to 
 

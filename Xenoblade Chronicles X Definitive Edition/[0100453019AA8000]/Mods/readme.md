@@ -1,19 +1,14 @@
 ## How to install the mods (for Emulators)
 
 > [!NOTE]
-Check this [VIDEO GUIDE](https://youtu.be/ij5fLfaZAWc?si=kBf1FVzheZY5SMgz) to know how to download my mods **if the format is only .pchtxt**
+Check this [VIDEO GUIDE](https://youtu.be/O1Rt55ExqXo?si=sbBNZbe-WJXLGEBc)
 
-Otherwise, follow the next instructions:
+> [!WARNING]
+To use the FPS mod properly, you must use the cheat inside the `cheats` folder and the .pchtxt file inside `exefs` folder together.
 
-1. **Click on the folder of the mod that you want to use**
+Otherwise, the mod won't work properly. **KEEP IN MIND THAT THE FPS ARE NOT DYNAMIC** So if the FPS are not stable and goes below 60FPS, you'll notice slowdowns.
 
-Then **Click on the .zip file name**. Finally **click on View Raw** to start the download.
-
-2. Now open your emulator (Yuzu or Ryujinx). Right click on the game and Open Mod Data Location (for Yuzu)/Open Mods Directory (for Ryujinx).
-
-3. Extract/Unzip the .zip file into this directory.
-
-Your path should be something like this: `60FPS\exefs\60FPS.pchtxt`
+**Issues reported without the cheat enabled will be automatically ignored.**
 
 ## Switch users
 
@@ -29,6 +24,12 @@ Here is a [written guide](https://rentry.co/howtoget60fps) about how to get 60FP
 
 - StevensND
 - [Fl4sh](https://github.com/Fl4sh9174)
+
+You can donate and support both of us if you want (this is always up to you, our mods are not under a paywall) on our Ko-fi links:
+
+https://ko-fi.com/stevenss
+
+https://Ko-fi.com/Fl4sh9174 
 
 ## Thanks to 
 
