@@ -6,7 +6,7 @@ Check this [VIDEO GUIDE](https://youtu.be/O1Rt55ExqXo?si=sbBNZbe-WJXLGEBc)
 > [!WARNING]
 To use the FPS mod properly, you must use the cheat inside the `cheats` folder and the .pchtxt file inside `exefs` folder together.
 
-Otherwise, the mod won't work properly. **KEEP IN MIND THAT THE FPS ARE NOT DYNAMIC** So if the FPS are not stable and goes below 60FPS, you'll notice slowdowns.
+Otherwise, the mod won't work properly. **KEEP IN MIND THAT THE FPS ARE NOT DYNAMIC** so if the FPS are not stable and goes below 60FPS, you'll notice slowdowns.
 
 **Issues reported without the cheat enabled will be automatically ignored.**
 

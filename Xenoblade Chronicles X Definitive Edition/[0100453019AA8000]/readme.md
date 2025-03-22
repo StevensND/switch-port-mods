@@ -24,7 +24,7 @@ Remember to read the `README.txt` file inside the downloaded .zip file. This wil
 > [!WARNING]
 To use this mod properly, you must use the cheat inside the `cheats` folder and the .pchtxt file inside `exefs` folder together.
 
-Otherwise, the mod won't work properly. **KEEP IN MIND THAT THE FPS ARE NOT DYNAMIC** So if the FPS are not stable and goes below 60FPS, you'll notice slowdowns.
+Otherwise, the mod won't work properly. **KEEP IN MIND THAT THE FPS ARE NOT DYNAMIC** so if the FPS are not stable and goes below 60FPS, you'll notice slowdowns.
 
 **Issues reported without the cheat enabled will be automatically ignored.**
 
