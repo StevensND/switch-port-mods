@@ -30,6 +30,27 @@ Here is a [video guide](https://youtu.be/0X5g6HF7LB4?si=n-UtFAEAj2VtjEQQ) + [wri
 
 Here is a [written guide](https://rentry.co/howtoget60fps) about how to get 60FPS on Switch.
 
+## Why there are two version of 60FPS
+
+- **60FPS + 30FPS Cutscenes (WIP)**: 
+
+This mod makes the gameplay run at 60FPS and keeps the cutscenes lock at 30FPS.
+
+> [!WARNING]
+To use this mod properly, you must use the cheat inside the `cheats` folder and the .pchtxt file inside `exefs` folder together.
+
+Otherwise, the mod won't work properly. **KEEP IN MIND THAT THE FPS ARE NOT DYNAMIC** so if the FPS are not stable and goes below 60FPS, you'll notice slowdowns.
+
+**Issues reported without the cheat enabled will be automatically ignored.**
+
+- **60FPS + 60FPS Real Time Cutscenes + 30FPS Pre-rendered Cutscenes (WIP)**:
+
+This is mod is called `[60FPS (60-30FPS Cutscenes)]` on the .zip file.
+
+It makes the game run at 60FPS on gameplay, 60FPS on real time cutscenes and 30FPS on pre-rendered cutscenes.
+
+So if you're playing and you saw a cutscene running at 30FPS, that's a pre-rendered cutscene.
+
 ## Credits 
 
 - StevensND
