@@ -21,6 +21,8 @@ Remember to read the `README.txt` file inside the downloaded .zip file. This wil
 
 - **60FPS + 30FPS Cutscenes (WIP)**: 
 
+This mod makes the gameplay run at 60FPS and keeps the cutscenes lock at 30FPS.
+
 > [!WARNING]
 To use this mod properly, you must use the cheat inside the `cheats` folder and the .pchtxt file inside `exefs` folder together.
 
@@ -28,7 +30,15 @@ Otherwise, the mod won't work properly. **KEEP IN MIND THAT THE FPS ARE NOT DYNA
 
 **Issues reported without the cheat enabled will be automatically ignored.**
 
-- **Resolution Mods**: 1440p, 1900p.
+- **60FPS + 60FPS Real Time Cutscenes + 30FPS Pre-rendered Cutscenes (WIP)**:
+
+This is mod is called `[60FPS (60-30FPS Cutscenes)]` on the .zip file.
+
+It makes the game run at 60FPS on gameplay, 60FPS on real time cutscenes and 30FPS on pre-rendered cutscenes.
+
+So if you're playing and you saw a cutscene running at 30FPS, that's a pre-rendered cutscene.
+
+- **Resolution Mods**: 1280x800 (for Steamdeck), 1440p, 1800p, 1900p.
 
 > [!NOTE]
 You must set the resolution upscaler on 1x. 
