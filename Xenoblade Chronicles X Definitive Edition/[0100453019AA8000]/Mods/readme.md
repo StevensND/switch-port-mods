@@ -11,7 +11,7 @@ I won't do a Discord server for this. Just check these forums:
 ## How to download and install the mods (for Emulators)
 
 > [!NOTE]
-Check this [VIDEO GUIDE](https://youtu.be/O1Rt55ExqXo?si=sbBNZbe-WJXLGEBc)
+Check this [VIDEO GUIDE](https://youtu.be/PVMZ6aGJ5z4?si=EHoJf-yQ1fqnYI7X)
 
 > [!WARNING]
 To use the FPS mod properly, you must use the cheat inside the `cheats` folder and the .pchtxt file inside `exefs` folder together.

@@ -85,7 +85,7 @@ Fov mod can cause a few visual glitches, but you can press ZL+dpad up anytime to
 ## How to download and install the mods (for Emulators)
 
 > [!NOTE]
-Check this [VIDEO GUIDE](https://youtu.be/O1Rt55ExqXo?si=sbBNZbe-WJXLGEBc)
+Check this [VIDEO GUIDE](https://youtu.be/PVMZ6aGJ5z4?si=EHoJf-yQ1fqnYI7X)
 
 ## Switch users
 
