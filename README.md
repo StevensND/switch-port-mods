@@ -28,5 +28,3 @@ Alternatively you can use the [discussions](https://github.com/StevensND/switch-
 - [Fl4sh's Github](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) + [Fl4sh's Gamebanana Profile](https://gamebanana.com/members/3083977)
 
 - [KeatonTheBot's Github](https://github.com/KeatonTheBot/switch-pchtxt-mods) + [KeatonTheBot's Gamebanana Profile](https://gamebanana.com/members/2739690)
-
-- [MaxLastBreath's Github](https://github.com/MaxLastBreath) + [MaxLastBreath's Gamebanana Profile](https://gamebanana.com/members/2745192)
