@@ -1,5 +1,7 @@
 ## Dynamic FPS BETA for v1.0.1
 
+- **Made by [Fl4sh](https://github.com/Fl4sh9174)**
+
 - **Working on Yuzu forks ONLY** (Citron/Sudachi,etc)
 
 - Mod is **running at 120FPS by default**. If you want 60FPS just delete the v2.pchtxt in the exefs folder
