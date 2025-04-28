@@ -64,7 +64,6 @@ https://Ko-fi.com/Fl4sh9174
 
 ## Thanks to 
 
-- [MaxLastBreath](https://github.com/maxlastbreath)
 - [Masagrator](https://github.com/masagrator/)
 - OldManKain
 - Medel
