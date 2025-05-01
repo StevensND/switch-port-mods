@@ -2,7 +2,7 @@
 
 - **Made by [Fl4sh](https://github.com/Fl4sh9174)**
 
-- **Working on Yuzu forks ONLY** (Citron/Sudachi,etc)
+- **Working on Sudachi & Citron + Kenji-NX and Ryubing** 
 
 - Mod is **running at 120FPS by default**. If you want 60FPS just delete the v2.pchtxt in the exefs folder
 
@@ -19,6 +19,7 @@
 - Fixed grass/rain/cloud/fog/shooting speed
 - Fixed status timer
 - Fixed title screen gamespeed
+- Fixed some skills effect speed
 - Fixed Overdrive duration
 - Fixed buff/debuff duration
 - Fixed death timer
