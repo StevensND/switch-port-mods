@@ -6,3 +6,5 @@
 6. Edit `maxlastbreath.ini` file with Notepad or Notepad++ with your desire settings.
 
 And that's all you need to do ... You don't need NX Optimizer UI.
+
+Otherwise, [open this link in a new tab](https://imgur.com/a/dPAHIc7) and follow the instructions.
