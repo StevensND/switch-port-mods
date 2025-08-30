@@ -24,7 +24,9 @@ The Default Resolution for this game is:
 ## How to download and install the mods (for Emulators)
 
 > [!NOTE]
-Check this [VIDEO GUIDE](https://youtu.be/PVMZ6aGJ5z4?si=EHoJf-yQ1fqnYI7X)
+Check this [VIDEO GUIDE](https://youtu.be/ij5fLfaZAWc?si=iQArTAy4rQeEeYCg) if the file is a .pchtxt file
+
+Otherwise, [check this guide](https://youtu.be/PVMZ6aGJ5z4?si=EHoJf-yQ1fqnYI7X) if the file is a .zip file
 
 ## Switch users
 
