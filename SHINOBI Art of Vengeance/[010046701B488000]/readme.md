@@ -19,7 +19,7 @@ The Default Resolution for this game is:
 1280x720 - Docked Mode
 ```
 
-- **1080p Docked - 720p Handheld**
+- [**1080p Docked - 720p Handheld**](https://github.com/StevensND/switch-port-mods/tree/main/SHINOBI%20Art%20of%20Vengeance/%5B010046701B488000%5D/1080p%20Docked%20-%20720p%20Handheld)
  
 ## How to download and install the mods (for Emulators)
 
@@ -28,7 +28,7 @@ Check this [VIDEO GUIDE](https://youtu.be/PVMZ6aGJ5z4?si=EHoJf-yQ1fqnYI7X)
 
 ## Switch users
 
-Just open the IPS folder, click on the .zip file, then click on `View Raw` and download the .zip file. 
+Just open the [IPS folder](https://github.com/StevensND/switch-port-mods/tree/main/SHINOBI%20Art%20of%20Vengeance/%5B010046701B488000%5D/IPS%20Files%20only%20for%20Switch%20users%20NOT%20FOR%20EMULATORS), click on the .zip file, then click on `View Raw` and download the .zip file. 
 
 Then extract the .zip file and paste the folder into your SD card.
 
