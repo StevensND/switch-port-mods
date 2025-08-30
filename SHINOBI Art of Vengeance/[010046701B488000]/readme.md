@@ -19,7 +19,14 @@ The Default Resolution for this game is:
 1280x720 - Docked Mode
 ```
 
+>[!TIP]
+If you're playing on Switch and want to keep the resolution and the 60FPS, you'd need to apply OC
+
 - [**1080p Docked - 720p Handheld**](https://github.com/StevensND/switch-port-mods/tree/main/SHINOBI%20Art%20of%20Vengeance/%5B010046701B488000%5D/1080p%20Docked%20-%20720p%20Handheld)
+
+## Gameplay
+
+Check this [gameplay played on Switch, not emulation](https://youtu.be/BHtY-x5jkDw?si=JIpALf-pn_Z0oEid)
  
 ## How to download and install the mods (for Emulators)
 
@@ -37,6 +44,8 @@ Then extract the .zip file and paste the folder into your SD card.
 ## Credits
 
 - [StevensND](https://github.com/StevensND)
+
+If you want to support me, here's my [Ko-Fi](https://ko-fi.com/stevenss)
 
 ## Big thanks to
 
