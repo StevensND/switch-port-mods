@@ -1,0 +1,23 @@
+@nsobid-2C19FC8C49BC4310C804436D392D4483
+
+# SHINOBI: Art of Vengeance [010046701B488000] v.1.01 - 1920x1080 Docked - 1280x720 Handheld
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1920x1080 Docked - 1280x720 Handheld
+
+@enabled
+03C6DE14 00F08052
+03C6DE18 01878052
+03C6E14C 00F08052
+03C6E150 01878052
+03C6DEAC 00A08052
+03C6DEB0 015A8052
+03C6E1F0 00A08052
+03C6E1F4 015A8052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
