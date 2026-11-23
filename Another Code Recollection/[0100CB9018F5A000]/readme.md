@@ -18,6 +18,16 @@ Keep that in mind before reporting this issue or any other complaint related to 
 
 I don't know if there are any other problems as I haven't played the game that much (I want to fix this bug ...).
 
+## TEXT FLICKER FIX (60FPS)
+
+The flickering text is caused by Unity's fixed timestep (`Time.fixedDeltaTime`). The popup animations step on it, and it doesn't match 60FPS, so some frames get no animation step and others get two.
+
+The cheat in `60fps/cheats/DED0F920799151BE.txt` sets `fixedDeltaTime` to 1/60 so it matches the frame rate. It's the same fix that [FPSLocker](https://github.com/masagrator/FPSLocker-Warehouse/blob/v4/SaltySD/plugins/FPSLocker/patches/0100CB9018F5A000/DED0F920799151BE.yaml) uses.
+
+- The cheat is for the `main` module (build ID `DED0F920799151BE`), and 60fps.pchtxt is for the `sdk` module (`357EFC198E728CB5`). Both are game version 1.0.0, so use them together.
+- **Keep VSync on.** With VSync off, the frame rate floats, and a fixed 1/60 timestep can't match it, so the flicker comes back.
+- Tested on Ryujinx at 60FPS with VSync on.
+
 ## COMPARISON VS REAL HARDWARE AT 30FPS
 
 You may think the game is speed up at 60fps but I've been comparing the game vs 30fps on real hardware and the game speed is correct IMO. 
@@ -33,6 +43,10 @@ I haven't noticed any other problems except for the visual bug with the texts.
 3. Create a new folder in the directory you just opened and name it 60fps for instance. Open this folder and create another folder inside it. Name this new folder exefs. Finally open this last created folder and paste the corresponding .pchtxt file there.
 
 Your path should be something like this: `60fps\exefs\60fps.pchtxt`
+
+4. (Text flicker fix) Inside the same `60fps` folder, create a folder named `cheats` and put `DED0F920799151BE.txt` in it. Then enable the cheat: Ryujinx → right click the game → Manage Cheats; Yuzu → Properties → Add-Ons.
+
+Your path should be something like this: `60fps\cheats\DED0F920799151BE.txt`
 
 **Switch users**: You can convert  the .pchtxt file to .ips using [IPSwitch](https://github.com/3096/ipswitch) or just use [FPSLocker](https://github.com/masagrator/FPSLocker)
 
